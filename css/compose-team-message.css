@@ -1,0 +1,319 @@
+/* screen - compose-team-message */
+
+.compose-team-message {
+  background-color: transparent;
+  cursor: pointer;
+  height: 770px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 830px;
+}
+
+#overlay-compose-team-message {
+  background-color: transparent;
+}
+
+.overlay .compose-team-message {
+  background-color: #00000000;
+}
+
+#overlay-compose-team-message .compose-team-message {
+  left: 0px;
+  top: 0.0px;
+}
+
+#overlay-compose-team-message .container-center-horizontal {
+  justify-content: normal;
+}
+
+.compose-team-message .popup-background-cRuPK5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 770px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 830px;
+}
+
+.compose-team-message .popup-background-cW5lxe {
+  background-color: var(--white);
+  border-radius: 25px;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.compose-team-message .post-it-button-cRuPK5 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 62px;
+  left: 345px;
+  position: absolute;
+  top: 635px;
+  width: 142px;
+}
+
+.compose-team-message .rectangle-712-hQ06eM {
+  background-color: var(--white);
+  border-radius: 15px;
+  box-shadow: 0px 12px 24px #00000086;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.compose-team-message .post-it-hQ06eM {
+  background-color: transparent;
+  bottom: calc(40.91% - 16px);
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  height: 40px;
+  line-height: 36px;
+  position: absolute;
+  right: calc(47.83% - 46px);
+  text-align: left;
+  white-space: nowrap;
+  width: 96px;
+}
+
+.compose-team-message .new-post-popup-cRuPK5 {
+  background-color: transparent;
+  height: 100px;
+  left: 69px;
+  position: absolute;
+  top: 424px;
+  width: 470px;
+}
+
+.compose-team-message .michelle-post-id-rixewD {
+  background-color: transparent;
+  height: 100px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.compose-team-message .mask-group-1268-D6Dnj6 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 370px);
+}
+
+.compose-team-message .teacher-7th-8th-grad-D6Dnj6 {
+  background-color: transparent;
+  height: 65px;
+  left: 124px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: 29px;
+  width: calc(100.00% - 122px);
+}
+
+.compose-team-message .michelle-silva-golding-D6Dnj6 {
+  background-color: transparent;
+  height: 31px;
+  left: 124px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% - 178px);
+}
+
+.compose-team-message .new-post-popup-p3JKll {
+  background-color: transparent;
+  height: 228px;
+  left: 69px;
+  position: absolute;
+  top: 257px;
+  width: 625px;
+}
+
+.compose-team-message .we-are-planning-to-d-pwbZmU {
+  background-color: transparent;
+  color: #0082f1;
+  cursor: pointer;
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-weight: 700;
+  height: 230px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 625px;
+}
+
+.compose-team-message .span0-5vSR2x {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.compose-team-message .span1-5vSR2x {
+  font-style: normal;
+}
+
+.compose-team-message .path-1493-pwbZmU {
+  background-color: transparent;
+  height: 3px;
+  left: 165px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(48.89% - 1px);
+  width: 217px;
+}
+
+.compose-team-message .team-cRuPK5 {
+  background-color: transparent;
+  height: 63px;
+  left: 59px;
+  position: absolute;
+  top: 142px;
+  width: 373px;
+}
+
+.compose-team-message .ellipse-373-ORx2xB {
+  background-color: var(--goldenrod);
+  border-radius: 25px;
+  height: 50px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.compose-team-message .ellipse-374-ORx2xB {
+  background-color: var(--grape);
+  border-radius: 25px;
+  height: calc(100.00% - 13px);
+  left: 8px;
+  position: absolute;
+  top: 6px;
+  width: calc(100.00% - 321px);
+}
+
+.compose-team-message .mask-group-1255-ORx2xB {
+  background-color: transparent;
+  bottom: 0px;
+  height: 50px;
+  object-fit: cover;
+  position: absolute;
+  right: 304px;
+  width: 50px;
+}
+
+.compose-team-message .district-math-team-ORx2xB {
+  background-color: transparent;
+  height: 31px;
+  left: 79px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 17px;
+  width: calc(100.00% - 77px);
+}
+
+.compose-team-message .popup-header-cRuPK5 {
+  background-color: transparent;
+  height: 92px;
+  left: 46px;
+  position: absolute;
+  top: 24px;
+  width: 769px;
+}
+
+.compose-team-message .cancel-button-mXNJa7 {
+  background-color: transparent;
+  height: 68px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 68px;
+}
+
+.compose-team-message .path-1484-xQ1TTF {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.compose-team-message .group-1230-xQ1TTF {
+  background-color: transparent;
+  height: calc(100.00% - 22px);
+  left: 13px;
+  opacity: 0.67;
+  position: absolute;
+  top: 10px;
+  transform: rotate(45.00deg);
+  width: calc(100.00% - 27px);
+}
+
+.compose-team-message .path-1146-BzgsL1 {
+  background-color: transparent;
+  height: 87.10%;
+  left: -1.12%;
+  object-fit: cover;
+  position: absolute;
+  top: 6.45%;
+  transform: rotate(-45.00deg);
+  width: 96.69%;
+}
+
+.compose-team-message .path-1147-BzgsL1 {
+  background-color: transparent;
+  height: 78.20%;
+  left: 6.59%;
+  object-fit: cover;
+  position: absolute;
+  top: 11.50%;
+  transform: rotate(-45.00deg);
+  width: 86.81%;
+}
+
+.compose-team-message .underline-mXNJa7 {
+  background-color: transparent;
+  bottom: -2px;
+  height: 3px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 16px);
+}
+
+.compose-team-message .team-message-mXNJa7 {
+  background-color: transparent;
+  height: 49px;
+  left: calc(47.08% - 130px);
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: center;
+  top: calc(40.56% - 20px);
+  white-space: nowrap;
+  width: 276px;
+}

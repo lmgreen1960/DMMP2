@@ -1,0 +1,1597 @@
+/* screen - templates */
+
+.templates {
+  background-color: var(--white);
+  height: 2120px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.templates .rectangle-731-xxUAMe {
+  background-color: var(--congress-blue);
+  height: 2047px;
+  left: 0px;
+  position: absolute;
+  top: 73px;
+  width: 1920px;
+}
+
+.templates .footer-xxUAMe {
+  background-color: transparent;
+  height: 185px;
+  left: 0px;
+  position: absolute;
+  top: 1935px;
+  width: 1920px;
+}
+
+.templates .rectangle-669-bdNRVv {
+  background: linear-gradient(359.44deg, #0c2246 4.44%, #16438f 93.06%);
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.templates .logo-bdNRVv {
+  background-color: transparent;
+  bottom: 38px;
+  height: 105px;
+  left: 31px;
+  position: absolute;
+  width: 897px;
+}
+
+.templates .small-logo-c64A4r {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 96px;
+}
+
+.templates .d-s1MTtz {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  height: 68px;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  transform: rotate(-2.00deg);
+  white-space: nowrap;
+  width: 38px;
+}
+
+.templates .m-s1MTtz {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  height: 68px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: 9px;
+  white-space: nowrap;
+  width: 53px;
+}
+
+.templates .p-s1MTtz {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  bottom: -10px;
+  height: 68px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  right: 10px;
+  text-align: left;
+  transform: rotate(2.00deg);
+  white-space: nowrap;
+  width: 36px;
+}
+
+.templates .m-xeab7T {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  bottom: -10px;
+  height: 68px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 53px;
+}
+
+.templates .do-c64A4r {
+  -webkit-text-stroke: 2px var(--fire-bush);
+  background-color: transparent;
+  height: 90px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  right: 682px;
+  text-align: left;
+  top: calc(194.22% - 175px);
+  white-space: nowrap;
+  width: 89px;
+}
+
+.templates .more-c64A4r {
+  -webkit-text-stroke: 2px var(--vin-rouge);
+  background-color: transparent;
+  height: 90px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  right: 488px;
+  text-align: left;
+  top: calc(194.22% - 175px);
+  white-space: nowrap;
+  width: 182px;
+}
+
+.templates .math-c64A4r {
+  -webkit-text-stroke: 2px var(--jade);
+  background-color: transparent;
+  height: 90px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  right: 295px;
+  text-align: left;
+  top: calc(194.22% - 175px);
+  white-space: nowrap;
+  width: 181px;
+}
+
+.templates .projects-c64A4r {
+  -webkit-text-stroke: 2px var(--purple-plum);
+  background-color: transparent;
+  height: 90px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: calc(194.22% - 175px);
+  white-space: nowrap;
+  width: 285px;
+}
+
+.templates .component-128-5-bdNRVv {
+  background-color: transparent;
+  bottom: calc(24.84% - 7px);
+  height: 28px;
+  position: absolute;
+  right: 111px;
+  width: 702px;
+}
+
+.templates .search-cgON2w {
+  -webkit-text-stroke: 0.5px var(--white);
+  background-color: transparent;
+  bottom: 7.14%;
+  height: 30px;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 76px;
+}
+
+.templates .news-cgON2w {
+  -webkit-text-stroke: 0.5px var(--white);
+  background-color: transparent;
+  bottom: 7.14%;
+  height: 30px;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  position: absolute;
+  right: 214px;
+  text-align: left;
+  white-space: nowrap;
+  width: 62px;
+}
+
+.templates .about-cgON2w {
+  -webkit-text-stroke: 0.5px var(--white);
+  background-color: transparent;
+  bottom: 7.14%;
+  height: 30px;
+  left: calc(35.11% - 23px);
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 66px;
+}
+
+.templates .contact-cgON2w {
+  -webkit-text-stroke: 0.5px var(--white);
+  background-color: transparent;
+  bottom: 7.14%;
+  height: 30px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.templates .dashboard-xxUAMe {
+  background-color: transparent;
+  height: 175px;
+  left: 10px;
+  position: absolute;
+  top: 174px;
+  width: 1822px;
+}
+
+.templates .dashboard-project-templates-Yjx5Cm {
+  background-color: transparent;
+  height: calc(100.00% - 131px);
+  left: 1314px;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  white-space: nowrap;
+  width: calc(100.00% - 1312px);
+}
+
+.templates .user-profile-Yjx5Cm {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 539px;
+}
+
+.templates .position-name-Cc4QwX {
+  background-color: transparent;
+  bottom: calc(26.53% - 7px);
+  height: 28px;
+  left: 39px;
+  position: absolute;
+  width: 87px;
+}
+
+.templates .teacher-Ac0gU9 {
+  background-color: transparent;
+  height: 107.14%;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 7.14%;
+  white-space: nowrap;
+  width: 102.30%;
+}
+
+.templates .profile-pic-Cc4QwX {
+  background-color: transparent;
+  height: 100px;
+  left: 30px;
+  position: absolute;
+  top: 5px;
+  width: 100px;
+}
+
+.templates .profile-pic-uuAkE4 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.templates .user-name-Cc4QwX {
+  background-color: transparent;
+  height: 73px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 389px;
+}
+
+.templates .michelle-silva-golding-A5r7uV {
+  -webkit-text-stroke: 0.5px var(--white);
+  background-color: transparent;
+  height: 75px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 100.51%;
+}
+
+.templates .district-name-Cc4QwX {
+  background-color: transparent;
+  height: 42px;
+  position: absolute;
+  right: calc(46.62% - 120px);
+  top: calc(31.58% - 13px);
+  width: 258px;
+}
+
+.templates .bay-area-unified-school-district-C805vy {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 100.78%;
+}
+
+.templates .interests-Cc4QwX {
+  background-color: transparent;
+  height: 21px;
+  position: absolute;
+  right: 27px;
+  top: calc(45.45% - 10px);
+  width: 362px;
+}
+
+.templates .games-sports-music7th-grade-geometry-1LtSfR {
+  background-color: transparent;
+  height: 109.52%;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: right;
+  top: 7.14%;
+  white-space: nowrap;
+  width: 100.55%;
+}
+
+.templates .sheher-Cc4QwX {
+  background-color: transparent;
+  bottom: -2px;
+  height: 41px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: right;
+  width: 128px;
+}
+
+.templates .template-xxUAMe {
+  background-color: transparent;
+  height: 1500px;
+  left: 167px;
+  position: absolute;
+  top: 355px;
+  width: 1586px;
+}
+
+.templates .path-1472-VlPF4Q {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 1px);
+}
+
+.templates .project-template-VlPF4Q {
+  -webkit-text-stroke: 0.5px var(--jade);
+  background-color: transparent;
+  color: var(--grape);
+  font-family: var(--font-family-ribeye_marrow);
+  font-size: 72px;
+  font-style: normal;
+  font-weight: 400;
+  height: 100px;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  position: absolute;
+  right: calc(49.89% - 322px);
+  text-align: left;
+  top: 64px;
+  white-space: nowrap;
+  width: 645px;
+}
+
+.templates .materials-cards-VlPF4Q {
+  background-color: transparent;
+  height: 512px;
+  left: calc(50.00% - 730px);
+  position: absolute;
+  top: calc(40.14% - 205px);
+  width: 1460px;
+}
+
+.templates .group-1490-7CJQYx {
+  background-color: transparent;
+  height: 100%;
+  left: calc(50.00% - 730px);
+  position: relative;
+  top: 0px;
+  width: 1460px;
+}
+
+.templates .lesson-materials-5BnC8w {
+  background-color: transparent;
+  height: 512px;
+  position: absolute;
+  right: 0px;
+  top: calc(50.00% - 256px);
+  width: 440px;
+}
+
+.templates .rectangle-702-Dj5JHM {
+  background-color: var(--white);
+  border-radius: 25px;
+  box-shadow: 0px 12px 24px #00000029;
+  height: calc(100.00% - 12px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.templates .add-teacher-resources-Dj5JHM {
+  background-color: transparent;
+  color: var(--jade);
+  font-style: normal;
+  font-weight: 700;
+  height: 40px;
+  line-height: 36px;
+  position: absolute;
+  right: calc(48.45% - 166px);
+  text-align: left;
+  top: 229px;
+  white-space: nowrap;
+  width: 343px;
+}
+
+.templates .timeline-learning-ou-Dj5JHM {
+  background-color: transparent;
+  height: 231px;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: calc(100.53% - 232px);
+  width: calc(100.00% - 58px);
+}
+
+.templates .mask-group-1280-Dj5JHM {
+  background-color: transparent;
+  height: calc(100.00% - 332px);
+  left: 30px;
+  object-fit: cover;
+  position: absolute;
+  top: 31px;
+  width: calc(100.00% - 60px);
+}
+
+.templates .student-materials-5BnC8w {
+  background-color: transparent;
+  height: 500px;
+  position: absolute;
+  right: 510px;
+  top: 0px;
+  width: 440px;
+}
+
+.templates .rectangle-702-MgaAcA {
+  background-color: var(--white);
+  border-radius: 25px;
+  box-shadow: 0px 12px 24px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.templates .add-student-materials-MgaAcA {
+  -webkit-text-stroke: 0.5px var(--vin-rouge);
+  background-color: transparent;
+  color: var(--vin-rouge);
+  font-style: normal;
+  font-weight: 700;
+  height: 40px;
+  line-height: 36px;
+  position: absolute;
+  right: calc(48.71% - 158px);
+  text-align: left;
+  top: 229px;
+  white-space: nowrap;
+  width: 324px;
+}
+
+.templates .mask-group-1273-MgaAcA {
+  background-color: transparent;
+  height: calc(100.00% - 320px);
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: calc(100.00% - 60px);
+}
+
+.templates .activity-guide-video-MgaAcA {
+  background-color: transparent;
+  bottom: calc(3.91% - 8px);
+  height: 206px;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  width: calc(100.00% - 58px);
+}
+
+.templates .supply-list-5BnC8w {
+  background-color: transparent;
+  height: 500px;
+  position: absolute;
+  right: 1020px;
+  top: 0px;
+  width: 440px;
+}
+
+.templates .rectangle-702-PuNWBS {
+  background-color: var(--white);
+  border-radius: 25px;
+  box-shadow: 0px 12px 24px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.templates .add-supplies-PuNWBS {
+  background-color: transparent;
+  color: var(--fire-bush);
+  font-style: normal;
+  font-weight: 700;
+  height: 40px;
+  line-height: 36px;
+  position: absolute;
+  right: calc(49.60% - 95px);
+  text-align: left;
+  top: 229px;
+  white-space: nowrap;
+  width: 192px;
+}
+
+.templates .mask-group-1273-PuNWBS {
+  background-color: transparent;
+  height: calc(100.00% - 320px);
+  left: 30px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: calc(100.00% - 60px);
+}
+
+.templates .supply-list-image-of-PuNWBS {
+  background-color: transparent;
+  bottom: calc(23.44% - 31px);
+  height: 131px;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  width: calc(100.00% - 58px);
+}
+
+.templates .project-details-VlPF4Q {
+  background-color: transparent;
+  height: 221px;
+  left: 61px;
+  position: absolute;
+  top: 149px;
+  width: 1462px;
+}
+
+.templates .rectangle-717-U8T5KY {
+  background-color: var(--white);
+  border-radius: 20px;
+  box-shadow: 0px 6px 12px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.templates .project-details-U8T5KY {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  height: 40px;
+  left: 44px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: 20px;
+  white-space: nowrap;
+  width: 212px;
+}
+
+.templates .name-text-U8T5KY {
+  background-color: transparent;
+  cursor: pointer;
+  height: 44px;
+  left: 44px;
+  position: absolute;
+  top: calc(35.59% - 16px);
+  width: 515px;
+}
+
+.templates .rectangle-718-b1CSoV {
+  background-color: var(--white);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.templates .name-b1CSoV {
+  background-color: transparent;
+  border: 0;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  height: calc(100.00% - 4px);
+  left: 0px;
+  line-height: 25px;
+  opacity: 0.5;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 87px;
+}
+
+.templates .name-b1CSoV::placeholder {
+  color: #00000099;
+}
+
+.templates .description-U8T5KY {
+  background-color: transparent;
+  bottom: 67px;
+  height: 44px;
+  left: 44px;
+  position: absolute;
+  width: 515px;
+}
+
+.templates .rectangle-721-AA5uxO {
+  background-color: var(--white);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.templates .description-AA5uxO {
+  background-color: transparent;
+  border: 0;
+  bottom: 1px;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  height: 40px;
+  left: 0px;
+  line-height: 25px;
+  opacity: 0.5;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  white-space: nowrap;
+  width: 167px;
+}
+
+.templates .description-AA5uxO::placeholder {
+  color: #00000099;
+}
+
+.templates .grade-drop-down-U8T5KY {
+  background-color: transparent;
+  height: 44px;
+  position: absolute;
+  right: calc(42.11% - 165px);
+  top: calc(35.59% - 16px);
+  width: 391px;
+}
+
+.templates .rectangle-720-hBNrjE {
+  background-color: var(--white);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.templates .grade-hBNrjE {
+  background-color: transparent;
+  border: 0;
+  bottom: calc(25.00% - 10px);
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  height: 40px;
+  left: 0px;
+  line-height: 25px;
+  opacity: 0.5;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  white-space: nowrap;
+  width: 87px;
+}
+
+.templates .grade-hBNrjE::placeholder {
+  color: #00000099;
+}
+
+.templates .math-topic-U8T5KY {
+  background-color: transparent;
+  bottom: 67px;
+  height: 44px;
+  position: absolute;
+  right: calc(42.15% - 165px);
+  width: 392px;
+}
+
+.templates .rectangle-722-Uq9qef {
+  background-color: var(--white);
+  height: 100%;
+  left: 1px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 1px);
+}
+
+.templates .math-category-Uq9qef {
+  background-color: transparent;
+  border: 0;
+  bottom: 1px;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  height: 40px;
+  left: 0px;
+  line-height: 25px;
+  opacity: 0.5;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  white-space: nowrap;
+  width: 214px;
+}
+
+.templates .math-category-Uq9qef::placeholder {
+  color: #00000099;
+}
+
+.templates .key-words-U8T5KY {
+  background-color: transparent;
+  bottom: 115px;
+  height: 44px;
+  position: absolute;
+  right: calc(1.40% - 5px);
+  width: 391px;
+}
+
+.templates .rectangle-723-OtcIB1 {
+  background-color: var(--white);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.templates .key-words-OtcIB1 {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  height: 40px;
+  left: calc(2.11% - 3px);
+  line-height: 25px;
+  opacity: 0.5;
+  position: absolute;
+  text-align: left;
+  top: calc(162.50% - 65px);
+  white-space: nowrap;
+  width: 154px;
+}
+
+.templates .interests-U8T5KY {
+  background-color: transparent;
+  bottom: 68px;
+  height: 44px;
+  position: absolute;
+  right: calc(1.40% - 5px);
+  width: 391px;
+}
+
+.templates .rectangle-724-ho5sHs {
+  background-color: var(--white);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.templates .interests-ho5sHs {
+  background-color: transparent;
+  bottom: -6px;
+  color: var(--black);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 700;
+  height: 40px;
+  left: calc(1.92% - 2px);
+  line-height: 25px;
+  opacity: 0.5;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 130px;
+}
+
+.templates .description-me28W8 {
+  background-color: transparent;
+  bottom: 12px;
+  height: 44px;
+  left: 44px;
+  position: absolute;
+  width: 515px;
+}
+
+.templates .rectangle-721-4suEEy {
+  background-color: var(--white);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.templates .time-frame-4suEEy {
+  background-color: transparent;
+  border: 0;
+  bottom: 1px;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  height: 40px;
+  left: 0px;
+  line-height: 25px;
+  opacity: 0.5;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  white-space: nowrap;
+  width: 174px;
+}
+
+.templates .time-frame-4suEEy::placeholder {
+  color: #00000099;
+}
+
+.templates .description-DBxTKY {
+  background-color: transparent;
+  bottom: 12px;
+  height: 44px;
+  left: 620px;
+  position: absolute;
+  width: 391px;
+}
+
+.templates .rectangle-721-1xQ5AR {
+  background-color: var(--white);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.templates .custom-field-1xQ5AR {
+  background-color: transparent;
+  border: 0;
+  bottom: 1px;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  height: 40px;
+  left: 0px;
+  line-height: 25px;
+  opacity: 0.5;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  white-space: nowrap;
+  width: 191px;
+}
+
+.templates .custom-field-1xQ5AR::placeholder {
+  color: #00000099;
+}
+
+.templates .description-bWJLfG {
+  background-color: transparent;
+  bottom: 12px;
+  height: 44px;
+  left: 1056px;
+  position: absolute;
+  width: 391px;
+}
+
+.templates .rectangle-721-nvHycR {
+  background-color: var(--white);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.templates .custom-field-nvHycR {
+  background-color: transparent;
+  border: 0;
+  bottom: 1px;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  height: 40px;
+  left: 0px;
+  line-height: 25px;
+  opacity: 0.5;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  white-space: nowrap;
+  width: 191px;
+}
+
+.templates .custom-field-nvHycR::placeholder {
+  color: #00000099;
+}
+
+.templates .scrolling-gallery-VlPF4Q {
+  background-color: transparent;
+  bottom: 79px;
+  height: 474px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.templates .scrolling-gallery-of-student-work-eEKqKx {
+  background-color: transparent;
+  bottom: 0px;
+  height: 406px;
+  left: 0px;
+  position: absolute;
+  width: 1586px;
+}
+
+.templates .rectangle-729-KiO57M {
+  background-color: var(--madison);
+  box-shadow: 0px 12px 24px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.templates .scroll-group-1-KiO57M::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.templates .scroll-group-1-KiO57M {
+  background-color: transparent;
+  height: 300px;
+  mix-blend-mode: normal;
+  overflow-x: scroll;
+  position: absolute;
+  right: 0px;
+  top: calc(50.00% - 150px);
+  width: 1586px;
+}
+
+.templates .group-1489-xK4jND {
+  background-color: transparent;
+  height: 300px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1720px;
+}
+
+.templates .group-1491-Lyg1VH {
+  background-color: transparent;
+  height: 100%;
+  left: calc(50.00% - 860px);
+  position: relative;
+  top: 0px;
+  width: 1720px;
+}
+
+.templates .rectangle-749-jaVOas {
+  background-color: var(--white);
+  border-radius: 25px;
+  height: 100%;
+  left: 76.74%;
+  position: absolute;
+  top: 0px;
+  width: 23.26%;
+}
+
+.templates .mask-group-1283-jaVOas {
+  background-color: transparent;
+  height: 100%;
+  left: 880px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 1320px);
+}
+
+.templates .mask-group-1278-jaVOas {
+  background-color: transparent;
+  height: 100%;
+  left: 440px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 1320px);
+}
+
+.templates .mask-group-1275-jaVOas {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 1320px);
+}
+
+.templates .add-examples-of-student-work-eEKqKx {
+  -webkit-text-stroke: 0.5px var(--white);
+  background-color: transparent;
+  color: var(--madison);
+  font-style: normal;
+  font-weight: 700;
+  height: 40px;
+  left: calc(50.00% - 252px);
+  line-height: 36px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: 504px;
+}
+
+.templates .save-button-VlPF4Q {
+  background-color: transparent;
+  cursor: pointer;
+  height: 62px;
+  left: calc(4.44% - 6px);
+  position: absolute;
+  top: 45px;
+  width: 146px;
+}
+
+.templates .rectangle-712-UOetSJ {
+  background-color: var(--congress-blue);
+  border-radius: 15px;
+  box-shadow: 0px 12px 24px #00000086;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.templates .save-it-UOetSJ {
+  background-color: transparent;
+  bottom: calc(40.91% - 16px);
+  color: var(--white);
+  font-style: normal;
+  font-weight: 700;
+  height: 40px;
+  line-height: 36px;
+  position: absolute;
+  right: calc(47.83% - 48px);
+  text-align: left;
+  white-space: nowrap;
+  width: 100px;
+}
+
+.templates .header-xxUAMe {
+  background-color: transparent;
+  height: 150px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.templates .profile-details-gallery-VMbpwo {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.templates .rectangle-669-DLjxpc {
+  background: linear-gradient(359.31deg, #0c2246 6.45%, #16438f 91.03%);
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.templates .logo-VMbpwo {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 45px);
+  left: 26px;
+  position: absolute;
+  top: 15px;
+  width: 897px;
+}
+
+.templates .d-MfQxFS {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  height: 68px;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  transform: rotate(-2.00deg);
+  white-space: nowrap;
+  width: 38px;
+}
+
+.templates .m-MfQxFS {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  height: 68px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  right: 799px;
+  text-align: left;
+  top: 9px;
+  white-space: nowrap;
+  width: 53px;
+}
+
+.templates .p-MfQxFS {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  bottom: -10px;
+  height: 68px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  right: 809px;
+  text-align: left;
+  transform: rotate(2.00deg);
+  white-space: nowrap;
+  width: 36px;
+}
+
+.templates .m-pAWvBI {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  bottom: -10px;
+  height: 68px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 53px;
+}
+
+.templates .do-MfQxFS {
+  -webkit-text-stroke: 2px var(--fire-bush);
+  background-color: transparent;
+  height: 90px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  right: 682px;
+  text-align: left;
+  top: calc(194.22% - 175px);
+  white-space: nowrap;
+  width: 89px;
+}
+
+.templates .more-MfQxFS {
+  -webkit-text-stroke: 2px var(--vin-rouge);
+  background-color: transparent;
+  height: 90px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  right: 488px;
+  text-align: left;
+  top: calc(194.22% - 175px);
+  white-space: nowrap;
+  width: 182px;
+}
+
+.templates .math-MfQxFS {
+  -webkit-text-stroke: 2px var(--jade);
+  background-color: transparent;
+  height: 90px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  right: 295px;
+  text-align: left;
+  top: calc(194.22% - 175px);
+  white-space: nowrap;
+  width: 181px;
+}
+
+.templates .projects-MfQxFS {
+  -webkit-text-stroke: 1px var(--grape);
+  background-color: transparent;
+  height: 90px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: calc(194.22% - 175px);
+  white-space: nowrap;
+  width: 285px;
+}
+
+.templates .nav-bar-VMbpwo {
+  background-color: transparent;
+  height: 40px;
+  position: absolute;
+  right: 20px;
+  top: calc(50.00% - 20px);
+  width: 861px;
+}
+
+.templates .search-hFU470 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 40px;
+  position: absolute;
+  right: 0px;
+  top: calc(50.00% - 20px);
+  width: 146px;
+}
+
+.templates .group-1508-5HuAI6 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.templates .menu-item-IX4g6b {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.templates .rectangle-736-5aFDEI {
+  background-color: var(--madison);
+  height: 40px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 146px;
+}
+
+.templates .search-5aFDEI {
+  -webkit-text-stroke: 0.5px var(--white);
+  background-color: transparent;
+  height: calc(100.00% - 10px);
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 76px;
+}
+
+.templates .icon-search-IX4g6b {
+  background-color: transparent;
+  bottom: 1px;
+  height: 32px;
+  position: absolute;
+  right: 4px;
+  width: 32px;
+}
+
+.templates .icon-search-vUxx8u {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 2px);
+}
+
+.templates .publish-hFU470 {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: calc(30.42% - 46px);
+  top: 0px;
+  width: 151px;
+}
+
+.templates .group-1507-8wUYxH {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.templates .menu-item-BlBppe {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.templates .rectangle-736-8A6yNi {
+  background-color: var(--madison);
+  height: 40px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 151px;
+}
+
+.templates .publish-8A6yNi {
+  -webkit-text-stroke: 0.5px var(--white);
+  background-color: transparent;
+  height: calc(100.00% - 10px);
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 81px;
+}
+
+.templates .drop-down-arrow-closed-BlBppe {
+  background-color: transparent;
+  bottom: calc(45.78% - 9px);
+  height: 20px;
+  position: absolute;
+  right: 18px;
+  width: 16px;
+}
+
+.templates .path-1244-QojXDx {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.templates .collaborate-hFU470 {
+  background-color: transparent;
+  height: 40px;
+  left: calc(34.48% - 67px);
+  position: absolute;
+  top: calc(50.00% - 20px);
+  width: 194px;
+}
+
+.templates .group-1506-X0wVbi {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.templates .menu-item-nURI1E {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.templates .rectangle-736-uGHolf {
+  background-color: var(--madison);
+  height: 40px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 194px;
+}
+
+.templates .collaborate-uGHolf {
+  -webkit-text-stroke: 0.5px var(--white);
+  background-color: transparent;
+  height: calc(100.00% - 10px);
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 124px;
+}
+
+.templates .drop-down-arrow-closed-nURI1E {
+  background-color: transparent;
+  bottom: calc(45.78% - 9px);
+  height: 20px;
+  position: absolute;
+  right: 21px;
+  width: 16px;
+}
+
+.templates .path-1244-UxVQKE {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.templates .projects-drop-down-hFU470 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 160px;
+}
+
+.templates .projects-Ko62EW {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 160px;
+}
+
+.templates .menu-item-yipKAr {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.templates .rectangle-736-3jux37 {
+  background-color: var(--madison);
+  height: 40px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 160px;
+}
+
+.templates .projects-3jux37 {
+  -webkit-text-stroke: 0.5px var(--white);
+  background-color: transparent;
+  height: calc(100.00% - 10px);
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.templates .drop-down-arrow-closed-yipKAr {
+  background-color: transparent;
+  bottom: calc(45.78% - 9px);
+  height: 20px;
+  position: absolute;
+  right: 22px;
+  width: 16px;
+}
+
+.templates .path-1244-HNHqbd {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}

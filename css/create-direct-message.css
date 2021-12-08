@@ -1,0 +1,910 @@
+/* screen - create-direct-message */
+
+.create-direct-message {
+  background-color: transparent;
+  cursor: pointer;
+  height: 770px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 830px;
+}
+
+.create-direct-message .popup-background-NiqL1Z {
+  background-color: transparent;
+  cursor: pointer;
+  height: 770px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 830px;
+}
+
+.create-direct-message .popup-background-yS4fbe {
+  background-color: var(--white);
+  border-radius: 25px;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.create-direct-message .new-post-popup-NiqL1Z {
+  background-color: transparent;
+  height: 346px;
+  left: 67px;
+  position: absolute;
+  top: 143px;
+  width: 651px;
+}
+
+.create-direct-message .new-post-icons-1nY9p9 {
+  background-color: transparent;
+  bottom: 1px;
+  height: 104px;
+  left: 61px;
+  position: absolute;
+  width: calc(100.00% - 61px);
+}
+
+.create-direct-message .camera-button-ctQGW3 {
+  background-color: transparent;
+  height: calc(100.00% - 8px);
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 83px;
+}
+
+.create-direct-message .camera-icon-tpo5DH {
+  background-color: transparent;
+  height: calc(100.00% - 31px);
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 5px);
+}
+
+.create-direct-message .camera-tpo5DH {
+  background-color: transparent;
+  bottom: -4px;
+  height: 30px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.create-direct-message .earth-icon-ctQGW3 {
+  background-color: transparent;
+  height: calc(100.00% - 12px);
+  left: calc(31.08% - 25px);
+  position: absolute;
+  top: 9px;
+  width: 80px;
+}
+
+.create-direct-message .publish-viznnu {
+  background-color: transparent;
+  bottom: -4px;
+  height: 30px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.create-direct-message .earth-icon-viznnu {
+  background-color: transparent;
+  height: 59px;
+  left: 2px;
+  position: absolute;
+  top: 0px;
+  width: 75px;
+}
+
+.create-direct-message .path-1407-4FQcZC {
+  background-color: transparent;
+  height: 100.00%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+
+.create-direct-message .path-1408-4FQcZC {
+  background-color: transparent;
+  height: 52.66%;
+  left: 2.14%;
+  object-fit: cover;
+  position: absolute;
+  top: 3.33%;
+  width: 46.91%;
+}
+
+.create-direct-message .path-1409-4FQcZC {
+  background-color: transparent;
+  height: 42.55%;
+  left: 5.48%;
+  object-fit: cover;
+  position: absolute;
+  top: 53.37%;
+  width: 36.78%;
+}
+
+.create-direct-message .path-1410-4FQcZC {
+  background-color: transparent;
+  height: 66.68%;
+  left: 51.46%;
+  object-fit: cover;
+  position: absolute;
+  top: 22.82%;
+  width: 41.10%;
+}
+
+.create-direct-message .camera-roll-button-ctQGW3 {
+  background-color: transparent;
+  height: calc(100.00% - 5px);
+  position: absolute;
+  right: calc(32.44% - 49px);
+  top: 1px;
+  width: 152px;
+}
+
+.create-direct-message .camera-roll-icon-zZrrM3 {
+  background-color: transparent;
+  height: 70.41%;
+  left: 26.72%;
+  position: absolute;
+  top: 0px;
+  width: 46.05%;
+}
+
+.create-direct-message .group-1388-HDCjgL {
+  background-color: transparent;
+  height: 69px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 70px;
+}
+
+.create-direct-message .group-1387-MGrbQp {
+  background-color: transparent;
+  height: 69px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 70px;
+}
+
+.create-direct-message .path-1380-vxPqx6 {
+  background-color: transparent;
+  height: 69px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 70px;
+}
+
+.create-direct-message .group-1390-HDCjgL {
+  background-color: transparent;
+  height: 41px;
+  left: 8px;
+  position: absolute;
+  top: 14px;
+  width: 25px;
+}
+
+.create-direct-message .group-1389-XhqYRW {
+  background-color: transparent;
+  height: 41px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 25px;
+}
+
+.create-direct-message .path-1381-AIqmIa {
+  background-color: transparent;
+  height: 41px;
+  left: -0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.create-direct-message .group-1392-HDCjgL {
+  background-color: transparent;
+  height: 39px;
+  left: 37px;
+  position: absolute;
+  top: 14px;
+  width: 25px;
+}
+
+.create-direct-message .group-1391-zRrA9f {
+  background-color: transparent;
+  height: 39px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 25px;
+}
+
+.create-direct-message .path-1382-7Dk5qe {
+  background-color: transparent;
+  height: 39px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.create-direct-message .group-1394-HDCjgL {
+  background-color: transparent;
+  height: 2px;
+  left: 9px;
+  position: absolute;
+  top: 8px;
+  width: 6px;
+}
+
+.create-direct-message .group-1393-wf9HPY {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 6px;
+}
+
+.create-direct-message .path-1383-BlOJrz {
+  background-color: transparent;
+  height: 2px;
+  left: -0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 6px;
+}
+
+.create-direct-message .group-1396-HDCjgL {
+  background-color: transparent;
+  height: 2px;
+  left: 18px;
+  position: absolute;
+  top: 8px;
+  width: 4px;
+}
+
+.create-direct-message .group-1395-lqx0Dm {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 4px;
+}
+
+.create-direct-message .path-1384-t3Xbkp {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 4px;
+}
+
+.create-direct-message .group-1398-HDCjgL {
+  background-color: transparent;
+  height: 2px;
+  left: 26px;
+  position: absolute;
+  top: 7px;
+  width: 5px;
+}
+
+.create-direct-message .group-1397-5PxXOV {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 5px;
+}
+
+.create-direct-message .path-1385-LVJo06 {
+  background-color: transparent;
+  height: 2px;
+  left: -0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 5px;
+}
+
+.create-direct-message .group-1400-HDCjgL {
+  background-color: transparent;
+  height: 2px;
+  left: 35px;
+  position: absolute;
+  top: 7px;
+  width: 6px;
+}
+
+.create-direct-message .group-1399-RtN36X {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 6px;
+}
+
+.create-direct-message .path-1386-IOgBxf {
+  background-color: transparent;
+  height: 2px;
+  left: -0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 6px;
+}
+
+.create-direct-message .group-1402-HDCjgL {
+  background-color: transparent;
+  height: 2px;
+  left: 42px;
+  position: absolute;
+  top: 7px;
+  width: 3px;
+}
+
+.create-direct-message .group-1401-juOBEk {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 3px;
+}
+
+.create-direct-message .path-1387-Pb8FUH {
+  background-color: transparent;
+  height: 2px;
+  left: -0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 3px;
+}
+
+.create-direct-message .group-1404-HDCjgL {
+  background-color: transparent;
+  height: 2px;
+  left: 51px;
+  position: absolute;
+  top: 8px;
+  width: 4px;
+}
+
+.create-direct-message .group-1403-alxRjD {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 4px;
+}
+
+.create-direct-message .path-1388-hfgfzI {
+  background-color: transparent;
+  height: 2px;
+  left: -0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 4px;
+}
+
+.create-direct-message .group-1406-HDCjgL {
+  background-color: transparent;
+  height: 2px;
+  left: 57px;
+  position: absolute;
+  top: 8px;
+  width: 2px;
+}
+
+.create-direct-message .group-1405-WZ4ZA5 {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 2px;
+}
+
+.create-direct-message .path-1389-1zEl1Z {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 2px;
+}
+
+.create-direct-message .group-1408-HDCjgL {
+  background-color: transparent;
+  height: 2px;
+  left: 10px;
+  position: absolute;
+  top: 58px;
+  width: 3px;
+}
+
+.create-direct-message .group-1407-Trysid {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 3px;
+}
+
+.create-direct-message .path-1390-kdtwRV {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 3px;
+}
+
+.create-direct-message .group-1410-HDCjgL {
+  background-color: transparent;
+  height: 2px;
+  left: 17px;
+  position: absolute;
+  top: 58px;
+  width: 6px;
+}
+
+.create-direct-message .group-1409-Et2Kek {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 6px;
+}
+
+.create-direct-message .path-1391-0mWRi5 {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 6px;
+}
+
+.create-direct-message .group-1412-HDCjgL {
+  background-color: transparent;
+  height: 2px;
+  left: 26px;
+  position: absolute;
+  top: 58px;
+  width: 5px;
+}
+
+.create-direct-message .group-1411-KEU1N5 {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 5px;
+}
+
+.create-direct-message .path-1392-wQDo1I {
+  background-color: transparent;
+  height: 2px;
+  left: -0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 5px;
+}
+
+.create-direct-message .group-1414-HDCjgL {
+  background-color: transparent;
+  height: 2px;
+  left: 38px;
+  position: absolute;
+  top: 57px;
+  width: 5px;
+}
+
+.create-direct-message .group-1413-d3aFR0 {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 5px;
+}
+
+.create-direct-message .path-1393-kDgZBa {
+  background-color: transparent;
+  height: 2px;
+  left: -0px;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 5px;
+}
+
+.create-direct-message .group-1416-HDCjgL {
+  background-color: transparent;
+  height: 2px;
+  left: 49px;
+  position: absolute;
+  top: 57px;
+  width: 4px;
+}
+
+.create-direct-message .group-1415-PRqqs1 {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 4px;
+}
+
+.create-direct-message .path-1394-3y5slN {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 4px;
+}
+
+.create-direct-message .group-1418-HDCjgL {
+  background-color: transparent;
+  height: 2px;
+  left: 57px;
+  position: absolute;
+  top: 57px;
+  width: 5px;
+}
+
+.create-direct-message .group-1417-ehfr1F {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 5px;
+}
+
+.create-direct-message .path-1395-CNp6xY {
+  background-color: transparent;
+  height: 2px;
+  left: -0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 5px;
+}
+
+.create-direct-message .camera-roll-zZrrM3 {
+  background-color: transparent;
+  bottom: -2px;
+  height: 30px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  overflow: hidden;
+  position: absolute;
+  text-align: center;
+  width: calc(100.00% + 2px);
+}
+
+.create-direct-message .gallery-button-ctQGW3 {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 109px;
+}
+
+.create-direct-message .image-icon-HIwhxR {
+  background-color: transparent;
+  height: 65.02%;
+  left: 15.52%;
+  position: absolute;
+  top: 1.16%;
+  transform: rotate(-2.00deg);
+  width: 64.22%;
+}
+
+.create-direct-message .path-1378-LzND9u {
+  background-color: transparent;
+  height: 71px;
+  left: -2px;
+  object-fit: cover;
+  position: absolute;
+  top: -2px;
+  transform: rotate(2.00deg);
+  width: 73px;
+}
+
+.create-direct-message .path-1379-LzND9u {
+  background-color: transparent;
+  height: 12px;
+  left: 42px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  transform: rotate(2.00deg);
+  width: 12px;
+}
+
+.create-direct-message .gallery-HIwhxR {
+  background-color: transparent;
+  bottom: -2px;
+  height: 35px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  width: calc(100.00% + 2px);
+}
+
+.create-direct-message .michelle-post-id-1nY9p9 {
+  background-color: transparent;
+  height: 100px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 181px);
+}
+
+.create-direct-message .mask-group-1268-GzXGkh {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 370px);
+}
+
+.create-direct-message .teacher-8th-grade-ma-GzXGkh {
+  background-color: transparent;
+  height: 65px;
+  left: 124px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: 29px;
+  width: calc(100.00% - 122px);
+}
+
+.create-direct-message .paula-de-gallo-GzXGkh {
+  background-color: transparent;
+  height: 31px;
+  left: 124px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% - 178px);
+}
+
+.create-direct-message .start-your-direct-message-here-1nY9p9 {
+  -webkit-text-stroke: 0.5px var(--white);
+  background-color: transparent;
+  border: 0;
+  color: var(--black);
+  cursor: pointer;
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+  height: 12.71%;
+  left: 0.31%;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  opacity: 0.5;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 32.92%;
+  white-space: nowrap;
+  width: 78.16%;
+}
+
+.create-direct-message .start-your-direct-message-here-1nY9p9::placeholder {
+  color: #00000099;
+}
+
+.create-direct-message .paulas-galleries-button-NiqL1Z {
+  background-color: transparent;
+  height: 62px;
+  left: 273px;
+  position: absolute;
+  top: 546px;
+  width: 284px;
+}
+
+.create-direct-message .rectangle-712-UePdoq {
+  background-color: var(--white);
+  border-radius: 15px;
+  box-shadow: 0px 12px 24px #00000086;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.create-direct-message .paulas-galleries-UePdoq {
+  background-color: transparent;
+  bottom: calc(40.91% - 16px);
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  height: 40px;
+  line-height: 36px;
+  position: absolute;
+  right: calc(47.83% - 114px);
+  text-align: left;
+  white-space: nowrap;
+  width: 238px;
+}
+
+.create-direct-message .paulas-posts-button-NiqL1Z {
+  background-color: transparent;
+  height: 62px;
+  left: 296px;
+  position: absolute;
+  top: 656px;
+  width: 239px;
+}
+
+.create-direct-message .rectangle-712-hXIZpO {
+  background-color: var(--white);
+  border-radius: 15px;
+  box-shadow: 0px 12px 24px #00000086;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.create-direct-message .paulas-posts-hXIZpO {
+  background-color: transparent;
+  bottom: calc(40.91% - 16px);
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  height: 40px;
+  line-height: 36px;
+  position: absolute;
+  right: calc(47.83% - 92px);
+  text-align: left;
+  white-space: nowrap;
+  width: 193px;
+}
+
+.create-direct-message .popup-header-NiqL1Z {
+  background-color: transparent;
+  height: 92px;
+  left: 46px;
+  position: absolute;
+  top: 24px;
+  width: 769px;
+}
+
+.create-direct-message .cancel-button-8uH4yi {
+  background-color: transparent;
+  height: 68px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 68px;
+}
+
+.create-direct-message .path-1484-p9GdMV {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.create-direct-message .group-1230-p9GdMV {
+  background-color: transparent;
+  height: calc(100.00% - 22px);
+  left: 13px;
+  opacity: 0.67;
+  position: absolute;
+  top: 10px;
+  transform: rotate(45.00deg);
+  width: calc(100.00% - 27px);
+}
+
+.create-direct-message .path-1146-xzxzTw {
+  background-color: transparent;
+  height: 87.10%;
+  left: -1.12%;
+  object-fit: cover;
+  position: absolute;
+  top: 6.45%;
+  transform: rotate(-45.00deg);
+  width: 96.69%;
+}
+
+.create-direct-message .path-1147-xzxzTw {
+  background-color: transparent;
+  height: 78.20%;
+  left: 6.59%;
+  object-fit: cover;
+  position: absolute;
+  top: 11.50%;
+  transform: rotate(-45.00deg);
+  width: 86.81%;
+}
+
+.create-direct-message .underline-8uH4yi {
+  background-color: transparent;
+  bottom: -2px;
+  height: 3px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 16px);
+}
+
+.create-direct-message .connect-with-paula-8uH4yi {
+  background-color: transparent;
+  height: 49px;
+  left: calc(45.87% - 160px);
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: center;
+  top: calc(40.56% - 20px);
+  white-space: nowrap;
+  width: 348px;
+}

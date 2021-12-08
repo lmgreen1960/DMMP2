@@ -1,0 +1,916 @@
+/* screen - project-details-2 */
+
+.project-details-2 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 2202px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.project-details-2 .rectangle-731-FKqBUK {
+  background-color: var(--congress-blue);
+  height: 2201px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.project-details-2 .dashboard-FKqBUK {
+  background-color: transparent;
+  height: 175px;
+  left: 10px;
+  position: absolute;
+  top: 174px;
+  width: 1812px;
+}
+
+.project-details-2 .enlargement-project-Xcw9Om {
+  background-color: transparent;
+  height: calc(100.00% - 131px);
+  left: 792px;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  white-space: nowrap;
+  width: calc(100.00% - 790px);
+}
+
+.project-details-2 .user-profile-Xcw9Om {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 539px;
+}
+
+.project-details-2 .position-name-ZE240B {
+  background-color: transparent;
+  bottom: calc(26.53% - 7px);
+  height: 28px;
+  left: 39px;
+  position: absolute;
+  width: 87px;
+}
+
+.project-details-2 .teacher-9xRNx5 {
+  background-color: transparent;
+  height: 107.14%;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 7.14%;
+  white-space: nowrap;
+  width: 102.30%;
+}
+
+.project-details-2 .profile-pic-ZE240B {
+  background-color: transparent;
+  height: 100px;
+  left: 30px;
+  position: absolute;
+  top: 5px;
+  width: 100px;
+}
+
+.project-details-2 .profile-pic-bRPipp {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.project-details-2 .user-name-ZE240B {
+  background-color: transparent;
+  height: 73px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 389px;
+}
+
+.project-details-2 .michelle-silva-golding-zTOxI1 {
+  -webkit-text-stroke: 0.5px var(--white);
+  background-color: transparent;
+  height: 75px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 100.51%;
+}
+
+.project-details-2 .district-name-ZE240B {
+  background-color: transparent;
+  height: 42px;
+  position: absolute;
+  right: calc(46.62% - 120px);
+  top: calc(31.58% - 13px);
+  width: 258px;
+}
+
+.project-details-2 .bay-area-unified-school-district-xfpJUx {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 100.78%;
+}
+
+.project-details-2 .interests-ZE240B {
+  background-color: transparent;
+  height: 21px;
+  position: absolute;
+  right: 27px;
+  top: calc(45.45% - 10px);
+  width: 362px;
+}
+
+.project-details-2 .games-sports-music7th-grade-geometry-4EjvkF {
+  background-color: transparent;
+  height: 109.52%;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: right;
+  top: 7.14%;
+  white-space: nowrap;
+  width: 100.55%;
+}
+
+.project-details-2 .sheher-ZE240B {
+  background-color: transparent;
+  bottom: -2px;
+  height: 41px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: right;
+  width: 128px;
+}
+
+.project-details-2 .maggies-candy-box-doc-FKqBUK {
+  background-color: transparent;
+  height: 1776px;
+  left: 169px;
+  position: absolute;
+  top: 355px;
+  width: 1582px;
+}
+
+.project-details-2 .screen-shot-2021-11-29-at-34613-pm-DFzwjH {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.project-details-2 .print-button-DFzwjH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 62px;
+  left: calc(4.74% - 7px);
+  position: absolute;
+  top: 45px;
+  width: 146px;
+}
+
+.project-details-2 .rectangle-712-P9xytV {
+  background-color: var(--congress-blue);
+  border-radius: 15px;
+  box-shadow: 0px 12px 24px #00000086;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.project-details-2 .print-it-P9xytV {
+  background-color: transparent;
+  bottom: calc(40.91% - 16px);
+  color: var(--white);
+  font-style: normal;
+  font-weight: 700;
+  height: 40px;
+  line-height: 36px;
+  position: absolute;
+  right: calc(47.83% - 48px);
+  text-align: left;
+  white-space: nowrap;
+  width: 100px;
+}
+
+.project-details-2 .edit-button-DFzwjH {
+  background-color: transparent;
+  cursor: pointer;
+  height: 62px;
+  left: calc(16.13% - 21px);
+  position: absolute;
+  top: 45px;
+  width: 131px;
+}
+
+.project-details-2 .rectangle-712-hIVu1f {
+  background-color: var(--congress-blue);
+  border-radius: 15px;
+  box-shadow: 0px 12px 24px #00000086;
+  cursor: pointer;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.project-details-2 .edit-it-hIVu1f {
+  background-color: transparent;
+  bottom: calc(40.91% - 16px);
+  color: var(--white);
+  font-style: normal;
+  font-weight: 700;
+  height: 40px;
+  line-height: 36px;
+  position: absolute;
+  right: calc(47.83% - 41px);
+  text-align: left;
+  white-space: nowrap;
+  width: 85px;
+}
+
+.project-details-2 .header-FKqBUK {
+  background-color: transparent;
+  height: 150px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.project-details-2 .profile-details-gallery-bCdWmI {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.project-details-2 .rectangle-669-x6ikFH {
+  background: linear-gradient(359.31deg, #0c2246 6.45%, #16438f 91.03%);
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.project-details-2 .logo-bCdWmI {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 45px);
+  left: 26px;
+  position: absolute;
+  top: 15px;
+  width: 897px;
+}
+
+.project-details-2 .d-z4Xxwa {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  height: 68px;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  transform: rotate(-2.00deg);
+  white-space: nowrap;
+  width: 38px;
+}
+
+.project-details-2 .m-z4Xxwa {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  height: 68px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  right: 799px;
+  text-align: left;
+  top: 9px;
+  white-space: nowrap;
+  width: 53px;
+}
+
+.project-details-2 .p-z4Xxwa {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  bottom: -10px;
+  height: 68px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  right: 809px;
+  text-align: left;
+  transform: rotate(2.00deg);
+  white-space: nowrap;
+  width: 36px;
+}
+
+.project-details-2 .m-prI1Se {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  bottom: -10px;
+  height: 68px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 53px;
+}
+
+.project-details-2 .do-z4Xxwa {
+  -webkit-text-stroke: 2px var(--fire-bush);
+  background-color: transparent;
+  height: 90px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  right: 682px;
+  text-align: left;
+  top: calc(194.22% - 175px);
+  white-space: nowrap;
+  width: 89px;
+}
+
+.project-details-2 .more-z4Xxwa {
+  -webkit-text-stroke: 2px var(--vin-rouge);
+  background-color: transparent;
+  height: 90px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  right: 488px;
+  text-align: left;
+  top: calc(194.22% - 175px);
+  white-space: nowrap;
+  width: 182px;
+}
+
+.project-details-2 .math-z4Xxwa {
+  -webkit-text-stroke: 2px var(--jade);
+  background-color: transparent;
+  height: 90px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  right: 295px;
+  text-align: left;
+  top: calc(194.22% - 175px);
+  white-space: nowrap;
+  width: 181px;
+}
+
+.project-details-2 .projects-z4Xxwa {
+  -webkit-text-stroke: 1px var(--grape);
+  background-color: transparent;
+  height: 90px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: calc(194.22% - 175px);
+  white-space: nowrap;
+  width: 285px;
+}
+
+.project-details-2 .nav-bar-bCdWmI {
+  background-color: transparent;
+  height: 40px;
+  position: absolute;
+  right: 20px;
+  top: calc(50.00% - 20px);
+  width: 861px;
+}
+
+.project-details-2 .search-wCRjho {
+  background-color: transparent;
+  cursor: pointer;
+  height: 40px;
+  position: absolute;
+  right: 0px;
+  top: calc(50.00% - 20px);
+  width: 146px;
+}
+
+.project-details-2 .group-1508-xufxI5 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.project-details-2 .menu-item-yfEPJy {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.project-details-2 .rectangle-736-BPRh6t {
+  background-color: var(--madison);
+  height: 40px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 146px;
+}
+
+.project-details-2 .search-BPRh6t {
+  -webkit-text-stroke: 0.5px var(--white);
+  background-color: transparent;
+  height: calc(100.00% - 10px);
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 76px;
+}
+
+.project-details-2 .icon-search-yfEPJy {
+  background-color: transparent;
+  bottom: 1px;
+  height: 32px;
+  position: absolute;
+  right: 4px;
+  width: 32px;
+}
+
+.project-details-2 .icon-search-mqPJjt {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 2px);
+}
+
+.project-details-2 .publish-wCRjho {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: calc(30.42% - 46px);
+  top: 0px;
+  width: 151px;
+}
+
+.project-details-2 .group-1507-8OGGEj {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.project-details-2 .menu-item-C2qwjy {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.project-details-2 .rectangle-736-CT2CoT {
+  background-color: var(--madison);
+  height: 40px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 151px;
+}
+
+.project-details-2 .publish-CT2CoT {
+  -webkit-text-stroke: 0.5px var(--white);
+  background-color: transparent;
+  height: calc(100.00% - 10px);
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 81px;
+}
+
+.project-details-2 .drop-down-arrow-closed-C2qwjy {
+  background-color: transparent;
+  bottom: calc(45.78% - 9px);
+  height: 20px;
+  position: absolute;
+  right: 18px;
+  width: 16px;
+}
+
+.project-details-2 .path-1244-FfwbwC {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.project-details-2 .collaborate-wCRjho {
+  background-color: transparent;
+  height: 40px;
+  left: calc(34.48% - 67px);
+  position: absolute;
+  top: calc(50.00% - 20px);
+  width: 194px;
+}
+
+.project-details-2 .group-1506-fwHNE6 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.project-details-2 .menu-item-5DvvJw {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.project-details-2 .rectangle-736-yqDxxV {
+  background-color: var(--madison);
+  height: 40px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 194px;
+}
+
+.project-details-2 .collaborate-yqDxxV {
+  -webkit-text-stroke: 0.5px var(--white);
+  background-color: transparent;
+  height: calc(100.00% - 10px);
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 124px;
+}
+
+.project-details-2 .drop-down-arrow-closed-5DvvJw {
+  background-color: transparent;
+  bottom: calc(45.78% - 9px);
+  height: 20px;
+  position: absolute;
+  right: 21px;
+  width: 16px;
+}
+
+.project-details-2 .path-1244-rzyZ3d {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.project-details-2 .projects-drop-down-wCRjho {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 160px;
+}
+
+.project-details-2 .projects-Nud4Bd {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 160px;
+}
+
+.project-details-2 .menu-item-dCteLX {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.project-details-2 .rectangle-736-2g8gbR {
+  background-color: var(--madison);
+  height: 40px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 160px;
+}
+
+.project-details-2 .projects-2g8gbR {
+  -webkit-text-stroke: 0.5px var(--white);
+  background-color: transparent;
+  height: calc(100.00% - 10px);
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.project-details-2 .drop-down-arrow-closed-dCteLX {
+  background-color: transparent;
+  bottom: calc(45.78% - 9px);
+  height: 20px;
+  position: absolute;
+  right: 22px;
+  width: 16px;
+}
+
+.project-details-2 .path-1244-36nexk {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.project-details-2 .footer-FKqBUK {
+  background-color: transparent;
+  height: 185px;
+  left: 0px;
+  position: absolute;
+  top: 2021px;
+  width: 1920px;
+}
+
+.project-details-2 .rectangle-669-WgpL1R {
+  background: linear-gradient(359.44deg, #0c2246 4.44%, #16438f 93.06%);
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.project-details-2 .logo-WgpL1R {
+  background-color: transparent;
+  bottom: 38px;
+  height: 105px;
+  left: 31px;
+  position: absolute;
+  width: 897px;
+}
+
+.project-details-2 .small-logo-5MnfgO {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 96px;
+}
+
+.project-details-2 .d-ODzoue {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  height: 68px;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  transform: rotate(-2.00deg);
+  white-space: nowrap;
+  width: 38px;
+}
+
+.project-details-2 .m-ODzoue {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  height: 68px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: 9px;
+  white-space: nowrap;
+  width: 53px;
+}
+
+.project-details-2 .p-ODzoue {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  bottom: -10px;
+  height: 68px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  right: 10px;
+  text-align: left;
+  transform: rotate(2.00deg);
+  white-space: nowrap;
+  width: 36px;
+}
+
+.project-details-2 .m-xZwsC7 {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  bottom: -10px;
+  height: 68px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 53px;
+}
+
+.project-details-2 .do-5MnfgO {
+  -webkit-text-stroke: 2px var(--fire-bush);
+  background-color: transparent;
+  height: 90px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  right: 682px;
+  text-align: left;
+  top: calc(194.22% - 175px);
+  white-space: nowrap;
+  width: 89px;
+}
+
+.project-details-2 .more-5MnfgO {
+  -webkit-text-stroke: 2px var(--vin-rouge);
+  background-color: transparent;
+  height: 90px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  right: 488px;
+  text-align: left;
+  top: calc(194.22% - 175px);
+  white-space: nowrap;
+  width: 182px;
+}
+
+.project-details-2 .math-5MnfgO {
+  -webkit-text-stroke: 2px var(--jade);
+  background-color: transparent;
+  height: 90px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  right: 295px;
+  text-align: left;
+  top: calc(194.22% - 175px);
+  white-space: nowrap;
+  width: 181px;
+}
+
+.project-details-2 .projects-5MnfgO {
+  -webkit-text-stroke: 2px var(--purple-plum);
+  background-color: transparent;
+  height: 90px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: calc(194.22% - 175px);
+  white-space: nowrap;
+  width: 285px;
+}
+
+.project-details-2 .component-128-5-WgpL1R {
+  background-color: transparent;
+  bottom: calc(24.84% - 7px);
+  height: 28px;
+  position: absolute;
+  right: 111px;
+  width: 702px;
+}
+
+.project-details-2 .search-ZXN1v1 {
+  -webkit-text-stroke: 0.5px var(--white);
+  background-color: transparent;
+  bottom: 7.14%;
+  height: 30px;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 76px;
+}
+
+.project-details-2 .news-ZXN1v1 {
+  -webkit-text-stroke: 0.5px var(--white);
+  background-color: transparent;
+  bottom: 7.14%;
+  height: 30px;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  position: absolute;
+  right: 214px;
+  text-align: left;
+  white-space: nowrap;
+  width: 62px;
+}
+
+.project-details-2 .about-ZXN1v1 {
+  -webkit-text-stroke: 0.5px var(--white);
+  background-color: transparent;
+  bottom: 7.14%;
+  height: 30px;
+  left: calc(35.11% - 23px);
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 66px;
+}
+
+.project-details-2 .contact-ZXN1v1 {
+  -webkit-text-stroke: 0.5px var(--white);
+  background-color: transparent;
+  bottom: 7.14%;
+  height: 30px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 86px;
+}

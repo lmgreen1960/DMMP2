@@ -1,0 +1,415 @@
+/* screen - google-log-in */
+
+.google-log-in {
+  background-color: transparent;
+  cursor: pointer;
+  display: block;
+  height: 770px;
+  opacity: 0;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 830px;
+}
+
+#overlay-google-log-in {
+  background-color: transparent;
+}
+
+.overlay .google-log-in {
+  background-color: #00000000;
+}
+
+#overlay-google-log-in .google-log-in {
+  left: 545px;
+  top: 155px;
+}
+
+#overlay-google-log-in .container-center-horizontal {
+  justify-content: normal;
+}
+
+.google-log-in.animate-enter {
+  animation: animate-enter-frames 0.20s ease 0.00s 1 normal forwards;
+  display: block;
+  opacity: 0;
+}
+
+@keyframes animate-enter-frames {
+  from{opacity: 0;
+}
+to{opacity: 1;
+}
+}
+
+.google-log-in .popup-background-Xenrh3 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 770px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 830px;
+}
+
+.google-log-in .popup-background-CxRCay {
+  background-color: var(--white);
+  border-radius: 25px;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.google-log-in .use-another-gmail-Xenrh3 {
+  background-color: transparent;
+  height: 94px;
+  left: 76px;
+  position: absolute;
+  top: 640px;
+  width: 670px;
+}
+
+.google-log-in .use-another-account-Ewa5ZQ {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  height: 40px;
+  left: calc(45.83% - 137px);
+  line-height: 54px;
+  position: absolute;
+  text-align: center;
+  top: 4px;
+  white-space: nowrap;
+  width: 298px;
+}
+
+.google-log-in .subtraction-1-Ewa5ZQ {
+  background-color: transparent;
+  height: 41px;
+  left: calc(16.69% - 8px);
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.google-log-in .ellipse-398-Ewa5ZQ {
+  background-color: var(--white);
+  border-radius: 10px;
+  height: 20px;
+  left: calc(18.23% - 4px);
+  position: absolute;
+  top: 13px;
+  width: 20px;
+}
+
+.google-log-in .line-25-Ewa5ZQ {
+  background-color: transparent;
+  bottom: 0px;
+  height: 2px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 100%;
+}
+
+.google-log-in .second-gmail-Xenrh3 {
+  background-color: transparent;
+  height: 92px;
+  left: 76px;
+  position: absolute;
+  top: 532px;
+  width: 670px;
+}
+
+.google-log-in .michelle-s-golding-HMxKcw {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  height: 40px;
+  left: calc(43.72% - 122px);
+  line-height: 54px;
+  position: absolute;
+  text-align: center;
+  top: -8px;
+  white-space: nowrap;
+  width: 280px;
+}
+
+.google-log-in .mask-group-1282-HMxKcw {
+  background-color: transparent;
+  bottom: 34px;
+  height: 50px;
+  object-fit: cover;
+  position: absolute;
+  right: 516px;
+  width: 50px;
+}
+
+.google-log-in .gold-teachergmailcom-HMxKcw {
+  background-color: transparent;
+  height: 30px;
+  left: calc(43.06% - 118px);
+  letter-spacing: 0.00px;
+  line-height: 54px;
+  position: absolute;
+  text-align: center;
+  top: calc(40.65% - 12px);
+  white-space: nowrap;
+  width: 274px;
+}
+
+.google-log-in .line-24-HMxKcw {
+  background-color: transparent;
+  bottom: 0px;
+  height: 2px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 100%;
+}
+
+.google-log-in .first-gmail-Xenrh3 {
+  background-color: transparent;
+  height: 86px;
+  left: 76px;
+  position: absolute;
+  top: 417px;
+  width: 670px;
+}
+
+.google-log-in .mask-group-1255-VLCQfS {
+  background-color: transparent;
+  bottom: 24px;
+  height: 50px;
+  object-fit: cover;
+  position: absolute;
+  right: 518px;
+  width: 50px;
+}
+
+.google-log-in .michelle-silva-golding-VLCQfS {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  height: 40px;
+  left: calc(48.71% - 157px);
+  line-height: 54px;
+  position: absolute;
+  text-align: center;
+  top: -8px;
+  white-space: nowrap;
+  width: 322px;
+}
+
+.google-log-in .msgoldinggmailcom-VLCQfS {
+  background-color: transparent;
+  height: 30px;
+  left: calc(40.55% - 102px);
+  letter-spacing: 0.00px;
+  line-height: 54px;
+  position: absolute;
+  text-align: center;
+  top: calc(44.25% - 13px);
+  white-space: nowrap;
+  width: 252px;
+}
+
+.google-log-in .line-23-VLCQfS {
+  background-color: transparent;
+  bottom: 0px;
+  height: 2px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 100%;
+}
+
+.google-log-in .choose-an-accountto-Xenrh3 {
+  background-color: transparent;
+  color: #3072c5;
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxl);
+  font-weight: 700;
+  height: auto;
+  left: 179px;
+  letter-spacing: 0.00px;
+  line-height: 54px;
+  position: absolute;
+  text-align: center;
+  top: 206px;
+  white-space: nowrap;
+  width: auto;
+}
+
+.google-log-in .span0-Lhm8GO {
+  color: var(--black);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.google-log-in .span1-Lhm8GO {
+  color: var(--black);
+  font-size: var(--font-size-l);
+  font-style: normal;
+  font-weight: 500;
+}
+
+.google-log-in .span2-Lhm8GO {
+  font-style: normal;
+}
+
+.google-log-in .google-sign-in-Xenrh3 {
+  background-color: transparent;
+  height: 50px;
+  left: 25px;
+  position: absolute;
+  top: 26px;
+  width: 360px;
+}
+
+.google-log-in .group-1440-52kUr2 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.google-log-in .group-1466-bzMJa9 {
+  background-color: transparent;
+  height: 125.00%;
+  left: -2.02%;
+  position: relative;
+  top: -12.50%;
+  width: 104.03%;
+}
+
+.google-log-in .path-1430-x0qFfR {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+
+.google-log-in .group-1442-52kUr2 {
+  background-color: transparent;
+  bottom: calc(48.28% - 10px);
+  height: 21px;
+  left: calc(50.00% - 80px);
+  opacity: 0.54;
+  position: absolute;
+  width: 160px;
+}
+
+.google-log-in .sign-in-with-google-MBAZyt {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.27px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.google-log-in .group-1513-52kUr2 {
+  background-color: transparent;
+  height: 58.35%;
+  left: 2.50%;
+  position: absolute;
+  top: 23.47%;
+  width: 7.68%;
+}
+
+.google-log-in .group-1445-cuZ24q {
+  background-color: transparent;
+  height: 10px;
+  left: 2px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 22px;
+}
+
+.google-log-in .group-1444-5BCxyP {
+  background-color: transparent;
+  height: 25px;
+  left: -2px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 28px;
+}
+
+.google-log-in .group-1447-cuZ24q {
+  background-color: transparent;
+  height: 12px;
+  left: 14px;
+  overflow: hidden;
+  position: absolute;
+  top: 13px;
+  width: 14px;
+}
+
+.google-log-in .group-1446-RJWAC5 {
+  background-color: transparent;
+  height: 25px;
+  left: -14px;
+  object-fit: cover;
+  position: absolute;
+  top: -10px;
+  width: 28px;
+}
+
+.google-log-in .group-1449-cuZ24q {
+  background-color: transparent;
+  height: 11px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 9px;
+  width: 6px;
+}
+
+.google-log-in .group-1448-xtDw38 {
+  background-color: transparent;
+  height: 25px;
+  left: -0px;
+  object-fit: cover;
+  position: absolute;
+  top: -7px;
+  width: 28px;
+}
+
+.google-log-in .group-1451-cuZ24q {
+  background-color: transparent;
+  height: 10px;
+  left: 2px;
+  overflow: hidden;
+  position: absolute;
+  top: 19px;
+  width: 22px;
+}
+
+.google-log-in .group-1450-vrPgRF {
+  background-color: transparent;
+  height: 25px;
+  left: -2px;
+  object-fit: cover;
+  position: absolute;
+  top: -15px;
+  width: 28px;
+}

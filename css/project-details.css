@@ -1,0 +1,1433 @@
+/* screen - project-details */
+
+.project-details {
+  background-color: var(--white);
+  height: 2120px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.project-details .rectangle-731-xMIfxl {
+  background-color: var(--congress-blue);
+  height: 2127px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.project-details .footer-xMIfxl {
+  background-color: transparent;
+  height: 185px;
+  left: 0px;
+  position: absolute;
+  top: 1942px;
+  width: 1920px;
+}
+
+.project-details .rectangle-669-EDjSD4 {
+  background: linear-gradient(359.44deg, #0c2246 4.44%, #16438f 93.06%);
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.project-details .logo-EDjSD4 {
+  background-color: transparent;
+  bottom: 38px;
+  height: 105px;
+  left: 31px;
+  position: absolute;
+  width: 897px;
+}
+
+.project-details .small-logo-kCaqYw {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 96px;
+}
+
+.project-details .d-KDkSqV {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  height: 68px;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  transform: rotate(-2.00deg);
+  white-space: nowrap;
+  width: 38px;
+}
+
+.project-details .m-KDkSqV {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  height: 68px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: 9px;
+  white-space: nowrap;
+  width: 53px;
+}
+
+.project-details .p-KDkSqV {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  bottom: -10px;
+  height: 68px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  right: 10px;
+  text-align: left;
+  transform: rotate(2.00deg);
+  white-space: nowrap;
+  width: 36px;
+}
+
+.project-details .m-nYju2i {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  bottom: -10px;
+  height: 68px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 53px;
+}
+
+.project-details .do-kCaqYw {
+  -webkit-text-stroke: 2px var(--fire-bush);
+  background-color: transparent;
+  height: 90px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  right: 682px;
+  text-align: left;
+  top: calc(194.22% - 175px);
+  white-space: nowrap;
+  width: 89px;
+}
+
+.project-details .more-kCaqYw {
+  -webkit-text-stroke: 2px var(--vin-rouge);
+  background-color: transparent;
+  height: 90px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  right: 488px;
+  text-align: left;
+  top: calc(194.22% - 175px);
+  white-space: nowrap;
+  width: 182px;
+}
+
+.project-details .math-kCaqYw {
+  -webkit-text-stroke: 2px var(--jade);
+  background-color: transparent;
+  height: 90px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  right: 295px;
+  text-align: left;
+  top: calc(194.22% - 175px);
+  white-space: nowrap;
+  width: 181px;
+}
+
+.project-details .projects-kCaqYw {
+  -webkit-text-stroke: 2px var(--purple-plum);
+  background-color: transparent;
+  height: 90px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: calc(194.22% - 175px);
+  white-space: nowrap;
+  width: 285px;
+}
+
+.project-details .component-128-5-EDjSD4 {
+  background-color: transparent;
+  bottom: calc(24.84% - 7px);
+  height: 28px;
+  position: absolute;
+  right: 111px;
+  width: 702px;
+}
+
+.project-details .search-qybwsr {
+  -webkit-text-stroke: 0.5px var(--white);
+  background-color: transparent;
+  bottom: 7.14%;
+  height: 30px;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  white-space: nowrap;
+  width: 76px;
+}
+
+.project-details .news-qybwsr {
+  -webkit-text-stroke: 0.5px var(--white);
+  background-color: transparent;
+  bottom: 7.14%;
+  height: 30px;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  position: absolute;
+  right: 214px;
+  text-align: left;
+  white-space: nowrap;
+  width: 62px;
+}
+
+.project-details .about-qybwsr {
+  -webkit-text-stroke: 0.5px var(--white);
+  background-color: transparent;
+  bottom: 7.14%;
+  height: 30px;
+  left: calc(35.11% - 23px);
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 66px;
+}
+
+.project-details .contact-qybwsr {
+  -webkit-text-stroke: 0.5px var(--white);
+  background-color: transparent;
+  bottom: 7.14%;
+  height: 30px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 86px;
+}
+
+.project-details .dashboard-xMIfxl {
+  background-color: transparent;
+  height: 175px;
+  left: 10px;
+  position: absolute;
+  top: 174px;
+  width: 1812px;
+}
+
+.project-details .guardians-of-the-mat-cPLDxf {
+  background-color: transparent;
+  height: calc(100.00% - 131px);
+  left: 934px;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  position: absolute;
+  text-align: center;
+  top: 22px;
+  white-space: nowrap;
+  width: calc(100.00% - 932px);
+}
+
+.project-details .user-profile-cPLDxf {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 539px;
+}
+
+.project-details .position-name-xOSqL5 {
+  background-color: transparent;
+  bottom: calc(26.53% - 7px);
+  height: 28px;
+  left: 39px;
+  position: absolute;
+  width: 87px;
+}
+
+.project-details .teacher-0tu52W {
+  background-color: transparent;
+  height: 107.14%;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 7.14%;
+  white-space: nowrap;
+  width: 102.30%;
+}
+
+.project-details .profile-pic-xOSqL5 {
+  background-color: transparent;
+  height: 100px;
+  left: 30px;
+  position: absolute;
+  top: 5px;
+  width: 100px;
+}
+
+.project-details .profile-pic-by5PzA {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.project-details .user-name-xOSqL5 {
+  background-color: transparent;
+  height: 73px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 389px;
+}
+
+.project-details .michelle-silva-golding-7QOoTA {
+  -webkit-text-stroke: 0.5px var(--white);
+  background-color: transparent;
+  height: 75px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 32px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 100.51%;
+}
+
+.project-details .district-name-xOSqL5 {
+  background-color: transparent;
+  height: 42px;
+  position: absolute;
+  right: calc(46.62% - 120px);
+  top: calc(31.58% - 13px);
+  width: 258px;
+}
+
+.project-details .bay-area-unified-school-district-u7uy0E {
+  background-color: transparent;
+  height: 44px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: 100.78%;
+}
+
+.project-details .interests-xOSqL5 {
+  background-color: transparent;
+  height: 21px;
+  position: absolute;
+  right: 27px;
+  top: calc(45.45% - 10px);
+  width: 362px;
+}
+
+.project-details .games-sports-music7th-grade-geometry-5Ybga3 {
+  background-color: transparent;
+  height: 109.52%;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: right;
+  top: 7.14%;
+  white-space: nowrap;
+  width: 100.55%;
+}
+
+.project-details .sheher-xOSqL5 {
+  background-color: transparent;
+  bottom: -2px;
+  height: 41px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: right;
+  width: 128px;
+}
+
+.project-details .digital-xMIfxl {
+  background-color: transparent;
+  height: 1500px;
+  left: 167px;
+  position: absolute;
+  top: 355px;
+  width: 1586px;
+}
+
+.project-details .path-1472-WWX80n {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 1px);
+}
+
+.project-details .guardians-of-the-math-galaxy-WWX80n {
+  -webkit-text-stroke: 0.5px var(--jade);
+  background-color: transparent;
+  height: 100px;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  position: absolute;
+  right: calc(49.77% - 573px);
+  text-align: left;
+  top: 47px;
+  white-space: nowrap;
+  width: 1152px;
+}
+
+.project-details .project-details-WWX80n {
+  background-color: transparent;
+  height: 163px;
+  left: 61px;
+  position: absolute;
+  top: 148px;
+  width: 1462px;
+}
+
+.project-details .rectangle-717-OpxZgh {
+  background-color: var(--white);
+  border-radius: 20px;
+  box-shadow: 0px 6px 12px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.project-details .name-text-OpxZgh {
+  background-color: transparent;
+  bottom: calc(47.06% - 21px);
+  cursor: pointer;
+  height: 44px;
+  left: 44px;
+  position: absolute;
+  width: 515px;
+}
+
+.project-details .rectangle-718-jUXkXP {
+  background-color: var(--white);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.project-details .guardians-of-the-math-galaxy-jUXkXP {
+  background-color: transparent;
+  border: 0;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  height: calc(100.00% - 4px);
+  left: 0px;
+  line-height: 25px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 0px;
+  white-space: nowrap;
+  width: 427px;
+}
+
+.project-details .guardians-of-the-math-galaxy-jUXkXP::placeholder {
+  color: #00000099;
+}
+
+.project-details .description-OpxZgh {
+  background-color: transparent;
+  bottom: 9px;
+  height: 44px;
+  left: 44px;
+  position: absolute;
+  width: 515px;
+}
+
+.project-details .rectangle-721-RAGLNL {
+  background-color: var(--white);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.project-details .students-learn-the-math-practice-RAGLNL {
+  background-color: transparent;
+  border: 0;
+  bottom: 1px;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  height: 40px;
+  left: 0px;
+  line-height: 25px;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  width: 507px;
+}
+
+.project-details .students-learn-the-math-practice-RAGLNL::placeholder {
+  color: #00000099;
+}
+
+.project-details .grade-drop-down-OpxZgh {
+  background-color: transparent;
+  bottom: calc(47.06% - 21px);
+  height: 44px;
+  position: absolute;
+  right: calc(42.11% - 165px);
+  width: 391px;
+}
+
+.project-details .rectangle-720-64WZLr {
+  background-color: var(--white);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.project-details .grade-6th-7th-8th-64WZLr {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  height: 40px;
+  left: 0px;
+  line-height: 25px;
+  opacity: 1.0;
+  position: absolute;
+  text-align: left;
+  top: calc(237.50% - 95px);
+  white-space: nowrap;
+  width: 289px;
+}
+
+.project-details .math-topic-OpxZgh {
+  background-color: transparent;
+  bottom: 9px;
+  height: 44px;
+  position: absolute;
+  right: calc(42.11% - 165px);
+  width: 391px;
+}
+
+.project-details .rectangle-722-CIgYv3 {
+  background-color: var(--white);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.project-details .math-practices-CIgYv3 {
+  background-color: transparent;
+  bottom: -6px;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  height: 40px;
+  left: 0px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 219px;
+}
+
+.project-details .key-words-OpxZgh {
+  background-color: transparent;
+  bottom: 56px;
+  height: 44px;
+  position: absolute;
+  right: calc(1.40% - 5px);
+  width: 391px;
+}
+
+.project-details .rectangle-723-ER7gFH {
+  background-color: var(--white);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.project-details .super-heros-ER7gFH {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  height: 40px;
+  left: calc(2.37% - 4px);
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: calc(162.50% - 65px);
+  white-space: nowrap;
+  width: 180px;
+}
+
+.project-details .interests-OpxZgh {
+  background-color: transparent;
+  bottom: 10px;
+  height: 44px;
+  position: absolute;
+  right: calc(1.40% - 5px);
+  width: 391px;
+}
+
+.project-details .rectangle-724-op2CSG {
+  background-color: var(--white);
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.project-details .hands-on-digital-op2CSG {
+  background-color: transparent;
+  bottom: -6px;
+  color: var(--black);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 700;
+  height: 40px;
+  left: calc(4.20% - 11px);
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 272px;
+}
+
+.project-details .scrolling-gallery-WWX80n {
+  background-color: transparent;
+  bottom: 74px;
+  height: 474px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.project-details .scrolling-gallery-of-student-work-IOdRDK {
+  background-color: transparent;
+  bottom: 0px;
+  height: 406px;
+  left: 0px;
+  position: absolute;
+  width: 1586px;
+}
+
+.project-details .rectangle-729-Gxuvex {
+  background-color: var(--madison);
+  box-shadow: 0px 12px 24px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.project-details .scroll-group-1-Gxuvex::-webkit-scrollbar {
+  display: none;
+  width: 0;
+}
+
+.project-details .scroll-group-1-Gxuvex {
+  background-color: transparent;
+  height: 300px;
+  mix-blend-mode: normal;
+  overflow-x: scroll;
+  position: absolute;
+  right: 0px;
+  top: calc(50.00% - 150px);
+  width: 1586px;
+}
+
+.project-details .group-1489-mkxGF5 {
+  background-color: transparent;
+  height: 300px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 1720px;
+}
+
+.project-details .group-1491-bcskP4 {
+  background-color: transparent;
+  height: 100%;
+  left: calc(50.00% - 860px);
+  position: relative;
+  top: 0px;
+  width: 1720px;
+}
+
+.project-details .mask-group-1283-3jCtks {
+  background-color: transparent;
+  height: 100%;
+  left: 1320px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 1320px);
+}
+
+.project-details .mask-group-1278-3jCtks {
+  background-color: transparent;
+  height: 100%;
+  left: 880px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 1320px);
+}
+
+.project-details .mask-group-1275-3jCtks {
+  background-color: transparent;
+  height: 100%;
+  left: 440px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 1320px);
+}
+
+.project-details .mask-group-1277-3jCtks {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 1320px);
+}
+
+.project-details .gallery-of-student-work-IOdRDK {
+  -webkit-text-stroke: 0.5px var(--white);
+  background-color: transparent;
+  color: var(--madison);
+  font-style: normal;
+  font-weight: 700;
+  height: 40px;
+  left: calc(50.00% - 200px);
+  line-height: 36px;
+  position: absolute;
+  text-align: center;
+  top: 1px;
+  white-space: nowrap;
+  width: 400px;
+}
+
+.project-details .interests-WWX80n {
+  background-color: transparent;
+  bottom: 1296px;
+  cursor: pointer;
+  height: 44px;
+  left: calc(50.00% - 332px);
+  position: absolute;
+  width: 663px;
+}
+
+.project-details .rectangle-724-bpAP7E {
+  background-color: var(--white);
+  height: 100%;
+  left: 126px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 272px);
+}
+
+.project-details .author-paula-de-gallo-connect-with-paula-bpAP7E {
+  background-color: transparent;
+  bottom: -6px;
+  color: var(--black);
+  cursor: pointer;
+  font-style: normal;
+  font-weight: 700;
+  height: 40px;
+  left: 0px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 665px;
+}
+
+.project-details .materials-cards-WWX80n {
+  background-color: transparent;
+  height: 512px;
+  left: calc(50.00% - 730px);
+  position: absolute;
+  top: calc(40.04% - 205px);
+  width: 1460px;
+}
+
+.project-details .group-1490-N4PCXj {
+  background-color: transparent;
+  height: 100%;
+  left: calc(50.00% - 730px);
+  position: relative;
+  top: 0px;
+  width: 1460px;
+}
+
+.project-details .lesson-materials-4qxAaR {
+  background-color: transparent;
+  height: 512px;
+  position: absolute;
+  right: 0px;
+  top: calc(50.00% - 256px);
+  width: 440px;
+}
+
+.project-details .rectangle-702-iRL49B {
+  background-color: var(--white);
+  border-radius: 25px;
+  box-shadow: 0px 12px 24px #00000029;
+  height: calc(100.00% - 12px);
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.project-details .add-teacher-resources-iRL49B {
+  background-color: transparent;
+  color: var(--jade);
+  font-style: normal;
+  font-weight: 700;
+  height: 40px;
+  line-height: 36px;
+  position: absolute;
+  right: calc(48.45% - 166px);
+  text-align: left;
+  top: 229px;
+  white-space: nowrap;
+  width: 343px;
+}
+
+.project-details .timeline-learning-ou-iRL49B {
+  background-color: transparent;
+  height: 231px;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  top: calc(100.53% - 232px);
+  width: calc(100.00% - 58px);
+}
+
+.project-details .mask-group-1280-iRL49B {
+  background-color: transparent;
+  height: calc(100.00% - 332px);
+  left: 30px;
+  object-fit: cover;
+  position: absolute;
+  top: 31px;
+  width: calc(100.00% - 60px);
+}
+
+.project-details .student-materials-4qxAaR {
+  background-color: transparent;
+  height: 500px;
+  position: absolute;
+  right: 510px;
+  top: 0px;
+  width: 440px;
+}
+
+.project-details .rectangle-702-mG7ceF {
+  background-color: var(--white);
+  border-radius: 25px;
+  box-shadow: 0px 12px 24px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.project-details .add-student-materials-mG7ceF {
+  -webkit-text-stroke: 0.5px var(--vin-rouge);
+  background-color: transparent;
+  color: var(--vin-rouge);
+  font-style: normal;
+  font-weight: 700;
+  height: 40px;
+  line-height: 36px;
+  position: absolute;
+  right: calc(48.71% - 158px);
+  text-align: left;
+  top: 229px;
+  white-space: nowrap;
+  width: 324px;
+}
+
+.project-details .mask-group-1273-mG7ceF {
+  background-color: transparent;
+  height: calc(100.00% - 320px);
+  left: 29px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: calc(100.00% - 60px);
+}
+
+.project-details .activity-guide-video-mG7ceF {
+  background-color: transparent;
+  bottom: calc(3.91% - 8px);
+  height: 206px;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  width: calc(100.00% - 58px);
+}
+
+.project-details .supply-list-4qxAaR {
+  background-color: transparent;
+  height: 500px;
+  position: absolute;
+  right: 1020px;
+  top: 0px;
+  width: 440px;
+}
+
+.project-details .rectangle-702-Yglfty {
+  background-color: var(--white);
+  border-radius: 25px;
+  box-shadow: 0px 12px 24px #00000029;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.project-details .add-supplies-Yglfty {
+  background-color: transparent;
+  color: var(--fire-bush);
+  font-style: normal;
+  font-weight: 700;
+  height: 40px;
+  line-height: 36px;
+  position: absolute;
+  right: calc(49.60% - 95px);
+  text-align: left;
+  top: 229px;
+  white-space: nowrap;
+  width: 192px;
+}
+
+.project-details .mask-group-1273-Yglfty {
+  background-color: transparent;
+  height: calc(100.00% - 320px);
+  left: 30px;
+  object-fit: cover;
+  position: absolute;
+  top: 30px;
+  width: calc(100.00% - 60px);
+}
+
+.project-details .supply-list-image-of-Yglfty {
+  background-color: transparent;
+  bottom: calc(23.44% - 31px);
+  height: 131px;
+  left: 30px;
+  letter-spacing: 0.00px;
+  line-height: 25px;
+  position: absolute;
+  text-align: left;
+  width: calc(100.00% - 58px);
+}
+
+.project-details .header-xMIfxl {
+  background-color: transparent;
+  height: 150px;
+  left: 0px;
+  position: fixed;
+  top: 0px;
+  width: 1920px;
+}
+
+.project-details .profile-details-gallery-Yg3Sny {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.project-details .rectangle-669-IiRvxd {
+  background: linear-gradient(359.31deg, #0c2246 6.45%, #16438f 91.03%);
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.project-details .logo-Yg3Sny {
+  background-color: transparent;
+  cursor: pointer;
+  height: calc(100.00% - 45px);
+  left: 26px;
+  position: absolute;
+  top: 15px;
+  width: 897px;
+}
+
+.project-details .d-xGN7UJ {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  height: 68px;
+  left: 8px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  text-align: left;
+  top: 10px;
+  transform: rotate(-2.00deg);
+  white-space: nowrap;
+  width: 38px;
+}
+
+.project-details .m-xGN7UJ {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  height: 68px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  right: 799px;
+  text-align: left;
+  top: 9px;
+  white-space: nowrap;
+  width: 53px;
+}
+
+.project-details .p-xGN7UJ {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  bottom: -10px;
+  height: 68px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  right: 809px;
+  text-align: left;
+  transform: rotate(2.00deg);
+  white-space: nowrap;
+  width: 36px;
+}
+
+.project-details .m-tqmlZ4 {
+  -webkit-text-stroke: 1px var(--white);
+  background-color: transparent;
+  bottom: -10px;
+  height: 68px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 53px;
+}
+
+.project-details .do-xGN7UJ {
+  -webkit-text-stroke: 2px var(--fire-bush);
+  background-color: transparent;
+  height: 90px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  right: 682px;
+  text-align: left;
+  top: calc(194.22% - 175px);
+  white-space: nowrap;
+  width: 89px;
+}
+
+.project-details .more-xGN7UJ {
+  -webkit-text-stroke: 2px var(--vin-rouge);
+  background-color: transparent;
+  height: 90px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  right: 488px;
+  text-align: left;
+  top: calc(194.22% - 175px);
+  white-space: nowrap;
+  width: 182px;
+}
+
+.project-details .math-xGN7UJ {
+  -webkit-text-stroke: 2px var(--jade);
+  background-color: transparent;
+  height: 90px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  right: 295px;
+  text-align: left;
+  top: calc(194.22% - 175px);
+  white-space: nowrap;
+  width: 181px;
+}
+
+.project-details .projects-xGN7UJ {
+  -webkit-text-stroke: 1px var(--grape);
+  background-color: transparent;
+  height: 90px;
+  letter-spacing: 0.00px;
+  line-height: 48px;
+  position: absolute;
+  right: -2px;
+  text-align: left;
+  top: calc(194.22% - 175px);
+  white-space: nowrap;
+  width: 285px;
+}
+
+.project-details .nav-bar-Yg3Sny {
+  background-color: transparent;
+  height: 40px;
+  position: absolute;
+  right: 20px;
+  top: calc(50.00% - 20px);
+  width: 861px;
+}
+
+.project-details .search-QR2Xzi {
+  background-color: transparent;
+  cursor: pointer;
+  height: 40px;
+  position: absolute;
+  right: 0px;
+  top: calc(50.00% - 20px);
+  width: 146px;
+}
+
+.project-details .group-1508-NXE2jM {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.project-details .menu-item-iKL8cz {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.project-details .rectangle-736-a8LJrx {
+  background-color: var(--madison);
+  height: 40px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 146px;
+}
+
+.project-details .search-a8LJrx {
+  -webkit-text-stroke: 0.5px var(--white);
+  background-color: transparent;
+  height: calc(100.00% - 10px);
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 76px;
+}
+
+.project-details .icon-search-iKL8cz {
+  background-color: transparent;
+  bottom: 1px;
+  height: 32px;
+  position: absolute;
+  right: 4px;
+  width: 32px;
+}
+
+.project-details .icon-search-6Hbxn7 {
+  background-color: transparent;
+  height: 100%;
+  left: 1px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 2px);
+}
+
+.project-details .publish-QR2Xzi {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: calc(30.42% - 46px);
+  top: 0px;
+  width: 151px;
+}
+
+.project-details .group-1507-ycwl2C {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.project-details .menu-item-LpGU42 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.project-details .rectangle-736-7NYixm {
+  background-color: var(--madison);
+  height: 40px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 151px;
+}
+
+.project-details .publish-7NYixm {
+  -webkit-text-stroke: 0.5px var(--white);
+  background-color: transparent;
+  height: calc(100.00% - 10px);
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 81px;
+}
+
+.project-details .drop-down-arrow-closed-LpGU42 {
+  background-color: transparent;
+  bottom: calc(45.78% - 9px);
+  height: 20px;
+  position: absolute;
+  right: 18px;
+  width: 16px;
+}
+
+.project-details .path-1244-tU8qv0 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.project-details .collaborate-QR2Xzi {
+  background-color: transparent;
+  height: 40px;
+  left: calc(34.48% - 67px);
+  position: absolute;
+  top: calc(50.00% - 20px);
+  width: 194px;
+}
+
+.project-details .group-1506-aE11T6 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.project-details .menu-item-t2xSlI {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.project-details .rectangle-736-tm6b7i {
+  background-color: var(--madison);
+  height: 40px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 194px;
+}
+
+.project-details .collaborate-tm6b7i {
+  -webkit-text-stroke: 0.5px var(--white);
+  background-color: transparent;
+  height: calc(100.00% - 10px);
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 124px;
+}
+
+.project-details .drop-down-arrow-closed-t2xSlI {
+  background-color: transparent;
+  bottom: calc(45.78% - 9px);
+  height: 20px;
+  position: absolute;
+  right: 21px;
+  width: 16px;
+}
+
+.project-details .path-1244-tgcOyH {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}
+
+.project-details .projects-drop-down-QR2Xzi {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 160px;
+}
+
+.project-details .projects-LjiOlZ {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 160px;
+}
+
+.project-details .menu-item-DHzFj3 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.project-details .rectangle-736-mbnDON {
+  background-color: var(--madison);
+  height: 40px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 160px;
+}
+
+.project-details .projects-mbnDON {
+  -webkit-text-stroke: 0.5px var(--white);
+  background-color: transparent;
+  height: calc(100.00% - 10px);
+  left: 24px;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 90px;
+}
+
+.project-details .drop-down-arrow-closed-DHzFj3 {
+  background-color: transparent;
+  bottom: calc(45.78% - 9px);
+  height: 20px;
+  position: absolute;
+  right: 22px;
+  width: 16px;
+}
+
+.project-details .path-1244-0b7lIR {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: 100%;
+}

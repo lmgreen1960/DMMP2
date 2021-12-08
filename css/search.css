@@ -1,0 +1,232 @@
+/* screen - search */
+
+.search {
+  background-color: transparent;
+  cursor: pointer;
+  height: 770px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 830px;
+}
+
+#overlay-search {
+  background-color: transparent;
+}
+
+.overlay .search {
+  background-color: #00000000;
+}
+
+#overlay-search .search {
+  left: 1584px;
+  top: 210px;
+}
+
+#overlay-search .container-center-horizontal {
+  justify-content: normal;
+}
+
+.search .popup-background-etQwyD {
+  background-color: transparent;
+  cursor: pointer;
+  height: 770px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 830px;
+}
+
+.search .popup-background-E5OCsF {
+  background-color: var(--white);
+  border-radius: 25px;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.search .search-bar-etQwyD {
+  background-color: transparent;
+  height: 41px;
+  left: 46px;
+  position: absolute;
+  top: 187px;
+  width: 720px;
+}
+
+.search .line-23-sxj7Cu {
+  background-color: transparent;
+  bottom: 4px;
+  height: 2px;
+  left: 50px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 50px);
+}
+
+.search .search-sxj7Cu {
+  -webkit-text-stroke: 0.5px var(--white);
+  background-color: transparent;
+  border: 0;
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 400;
+  height: calc(100.00% - 11px);
+  left: 50px;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  opacity: 0.59;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 76px;
+}
+
+.search .search-sxj7Cu::placeholder {
+  color: #00000099;
+}
+
+.search .icon-search-sxj7Cu {
+  background-color: transparent;
+  bottom: 0px;
+  height: 41px;
+  position: absolute;
+  right: 510px;
+  width: 211px;
+}
+
+.search .icon-search-mGHlIi {
+  background-color: transparent;
+  height: calc(100.00% - 9px);
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 181px);
+}
+
+.search .popup-header-etQwyD {
+  background-color: transparent;
+  height: 92px;
+  left: 46px;
+  position: absolute;
+  top: 24px;
+  width: 769px;
+}
+
+.search .cancel-button-nwP988 {
+  background-color: transparent;
+  height: 68px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 68px;
+}
+
+.search .path-1484-CKYfde {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.search .group-1230-CKYfde {
+  background-color: transparent;
+  height: calc(100.00% - 22px);
+  left: 13px;
+  opacity: 0.67;
+  position: absolute;
+  top: 10px;
+  transform: rotate(45.00deg);
+  width: calc(100.00% - 27px);
+}
+
+.search .path-1146-S4mULN {
+  background-color: transparent;
+  height: 87.10%;
+  left: -1.12%;
+  object-fit: cover;
+  position: absolute;
+  top: 6.45%;
+  transform: rotate(-45.00deg);
+  width: 96.69%;
+}
+
+.search .path-1147-S4mULN {
+  background-color: transparent;
+  height: 78.20%;
+  left: 6.59%;
+  object-fit: cover;
+  position: absolute;
+  top: 11.50%;
+  transform: rotate(-45.00deg);
+  width: 86.81%;
+}
+
+.search .underline-nwP988 {
+  background-color: transparent;
+  bottom: -2px;
+  height: 3px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 16px);
+}
+
+.search .search-projects-nwP988 {
+  background-color: transparent;
+  height: 49px;
+  left: calc(47.02% - 134px);
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: center;
+  top: calc(40.56% - 20px);
+  white-space: nowrap;
+  width: 286px;
+}
+
+.search .post-it-button-etQwyD {
+  background-color: transparent;
+  height: 62px;
+  left: 344px;
+  position: absolute;
+  top: 666px;
+  width: 124px;
+}
+
+.search .rectangle-712-50A2sg {
+  background-color: var(--white);
+  border-radius: 15px;
+  box-shadow: 0px 12px 24px #00000086;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.search .enter-50A2sg {
+  background-color: transparent;
+  bottom: calc(40.91% - 16px);
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  height: 40px;
+  line-height: 36px;
+  position: absolute;
+  right: calc(47.83% - 37px);
+  text-align: left;
+  white-space: nowrap;
+  width: 78px;
+}

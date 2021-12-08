@@ -1,0 +1,308 @@
+/* screen - upload-link */
+
+.upload-link {
+  background-color: transparent;
+  cursor: pointer;
+  height: 771px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 831px;
+}
+
+#overlay-upload-link {
+  background-color: transparent;
+}
+
+.overlay .upload-link {
+  background-color: #00000000;
+}
+
+#overlay-upload-link .upload-link {
+  left: 152.06427001953125px;
+  top: 472.83960723876953px;
+}
+
+#overlay-upload-link .container-center-horizontal {
+  justify-content: normal;
+}
+
+.upload-link .popup-background-OFDTd6 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 770px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 830px;
+}
+
+.upload-link .popup-background-Jxbk0T {
+  background-color: var(--white);
+  border-radius: 25px;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.upload-link .new-post-popup-OFDTd6 {
+  background-color: transparent;
+  height: 58px;
+  left: 361px;
+  position: absolute;
+  top: 142px;
+  width: 109px;
+}
+
+.upload-link .new-post-icons-cBOdvW {
+  background-color: transparent;
+  bottom: 0px;
+  height: 58px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.upload-link .link-icon-PI1Tqj {
+  background-color: transparent;
+  height: 100%;
+  left: calc(50.00% - 55px);
+  position: relative;
+  top: 1px;
+  width: 109px;
+}
+
+.upload-link .link-XTUcSy {
+  background-color: transparent;
+  bottom: 11px;
+  height: 30px;
+  left: 64px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% - 62px);
+}
+
+.upload-link .link-rCa86d {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 57px);
+}
+
+.upload-link .path-1485-LTdUYK {
+  background-color: transparent;
+  bottom: 0px;
+  height: 38px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: 40px;
+}
+
+.upload-link .path-1486-LTdUYK {
+  background-color: transparent;
+  height: 39px;
+  object-fit: cover;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 37px;
+}
+
+.upload-link .group-1472-OFDTd6 {
+  background-color: transparent;
+  height: 62px;
+  left: 327px;
+  position: absolute;
+  top: 501px;
+  width: 177px;
+}
+
+.upload-link .rectangle-712-1ldTyN {
+  background-color: var(--white);
+  border-radius: 15px;
+  box-shadow: 0px 12px 24px #00000086;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.upload-link .upload-it-1ldTyN {
+  background-color: transparent;
+  bottom: calc(40.91% - 16px);
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  height: 40px;
+  line-height: 36px;
+  position: absolute;
+  right: calc(47.83% - 63px);
+  text-align: left;
+  white-space: nowrap;
+  width: 131px;
+}
+
+.upload-link .rectangle-739-OFDTd6 {
+  background-color: var(--white);
+  height: 83px;
+  left: 161px;
+  opacity: 0.59;
+  position: absolute;
+  top: 254px;
+  width: 539px;
+}
+
+.upload-link .paste-url-OFDTd6 {
+  background-color: transparent;
+  border: 0;
+  color: var(--congress-blue);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  height: 30px;
+  left: 204px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 0.5;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 282px;
+  white-space: nowrap;
+  width: 114px;
+}
+
+.upload-link .paste-url-OFDTd6::placeholder {
+  color: #16438f99;
+}
+
+.upload-link .rectangle-740-OFDTd6 {
+  background-color: var(--white);
+  height: 83px;
+  left: 161px;
+  opacity: 0.59;
+  position: absolute;
+  top: 364px;
+  width: 539px;
+}
+
+.upload-link .link-title-OFDTd6 {
+  background-color: transparent;
+  border: 0;
+  color: var(--congress-blue);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 700;
+  height: 30px;
+  left: 204px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  opacity: 0.5;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 392px;
+  white-space: nowrap;
+  width: 102px;
+}
+
+.upload-link .link-title-OFDTd6::placeholder {
+  color: #16438f99;
+}
+
+.upload-link .popup-header-OFDTd6 {
+  background-color: transparent;
+  height: 92px;
+  left: 46px;
+  position: absolute;
+  top: 24px;
+  width: 769px;
+}
+
+.upload-link .cancel-button-H0g9sS {
+  background-color: transparent;
+  height: 68px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 68px;
+}
+
+.upload-link .path-1484-RAYd1Q {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.upload-link .group-1230-RAYd1Q {
+  background-color: transparent;
+  height: calc(100.00% - 22px);
+  left: 13px;
+  opacity: 0.67;
+  position: absolute;
+  top: 10px;
+  transform: rotate(45.00deg);
+  width: calc(100.00% - 27px);
+}
+
+.upload-link .path-1146-9JBztj {
+  background-color: transparent;
+  height: 87.10%;
+  left: -1.12%;
+  object-fit: cover;
+  position: absolute;
+  top: 6.45%;
+  transform: rotate(-45.00deg);
+  width: 96.69%;
+}
+
+.upload-link .path-1147-9JBztj {
+  background-color: transparent;
+  height: 78.20%;
+  left: 6.59%;
+  object-fit: cover;
+  position: absolute;
+  top: 11.50%;
+  transform: rotate(-45.00deg);
+  width: 86.81%;
+}
+
+.upload-link .underline-H0g9sS {
+  background-color: transparent;
+  bottom: -2px;
+  height: 3px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 16px);
+}
+
+.upload-link .upload-content-H0g9sS {
+  background-color: transparent;
+  height: 49px;
+  left: calc(47.05% - 132px);
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: center;
+  top: calc(40.56% - 20px);
+  white-space: nowrap;
+  width: 280px;
+}

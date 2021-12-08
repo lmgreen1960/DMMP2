@@ -1,0 +1,456 @@
+/* screen - splash */
+
+.splash {
+  background-color: var(--black);
+  height: 1080px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 1920px;
+}
+
+.splash .splash-hero-wLebNn {
+  background-color: transparent;
+  height: 1081px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 1920px;
+}
+
+.splash .welcome-wLebNn {
+  background-color: transparent;
+  height: 880px;
+  left: 402px;
+  position: absolute;
+  top: 126px;
+  width: 1118px;
+}
+
+.splash .title-mQ36eS {
+  -webkit-text-stroke: 2px var(--white);
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-ribeye_marrow);
+  font-size: 100px;
+  font-style: normal;
+  font-weight: 400;
+  height: 139px;
+  left: 265px;
+  letter-spacing: 0.00px;
+  line-height: 100px;
+  position: absolute;
+  text-align: center;
+  top: 18px;
+  white-space: nowrap;
+  width: calc(100.00% - 528px);
+}
+
+.splash .create-custom-materi-mQ36eS {
+  background-color: transparent;
+  color: var(--white);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xxxl);
+  font-style: normal;
+  font-weight: 500;
+  height: 260px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 64px;
+  overflow: hidden;
+  position: absolute;
+  text-align: center;
+  top: calc(100.32% - 261px);
+  width: calc(100.00% + 2px);
+}
+
+.splash .do-mQ36eS {
+  -webkit-text-stroke: 2px var(--jade);
+  background-color: transparent;
+  bottom: 585px;
+  color: var(--jade);
+  font-family: var(--font-family-ribeye_marrow);
+  font-size: 100px;
+  font-style: normal;
+  font-weight: 400;
+  height: 139px;
+  left: 376px;
+  letter-spacing: 0.00px;
+  line-height: 100px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% - 980px);
+}
+
+.splash .more-mQ36eS {
+  -webkit-text-stroke: 2px var(--vin-rouge);
+  background-color: transparent;
+  bottom: 583px;
+  color: var(--vin-rouge);
+  font-family: var(--font-family-ribeye_marrow);
+  font-size: 100px;
+  font-style: normal;
+  font-weight: 400;
+  height: 139px;
+  left: 533px;
+  letter-spacing: 0.00px;
+  line-height: 100px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% - 836px);
+}
+
+.splash .projects-mQ36eS {
+  -webkit-text-stroke: 1px var(--congress-blue);
+  background-color: transparent;
+  bottom: 342px;
+  color: var(--congress-blue);
+  font-family: var(--font-family-ribeye_marrow);
+  font-size: 100px;
+  font-style: normal;
+  font-weight: 400;
+  height: 139px;
+  left: 533px;
+  letter-spacing: 0.00px;
+  line-height: 100px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% - 646px);
+}
+
+.splash .math-mQ36eS {
+  -webkit-text-stroke: 2px var(--grape);
+  background-color: transparent;
+  bottom: 463px;
+  color: var(--grape);
+  font-family: var(--font-family-ribeye_marrow);
+  font-size: 100px;
+  font-style: normal;
+  font-weight: 400;
+  height: 139px;
+  left: 533px;
+  letter-spacing: 0.00px;
+  line-height: 100px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% - 836px);
+}
+
+.splash .sign-in-buttons-wLebNn {
+  background-color: transparent;
+  cursor: pointer;
+  height: 203px;
+  left: 1512px;
+  position: absolute;
+  top: 45px;
+  width: 360px;
+}
+
+.splash .facebook-sign-in-elVXyb {
+  background-color: transparent;
+  height: 51px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.splash .group-1428-6EzCkC {
+  background-color: transparent;
+  height: calc(100.00% - 1px);
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.splash .group-1464-HHm8WX {
+  background-color: transparent;
+  height: 125.00%;
+  left: -2.02%;
+  position: relative;
+  top: -12.50%;
+  width: 104.03%;
+}
+
+.splash .path-1419-ebROoS {
+  background-color: transparent;
+  height: 100.00%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+
+.splash .group-6EzCkC {
+  background-color: transparent;
+  height: calc(100.00% - 30px);
+  left: 89px;
+  position: absolute;
+  top: 15px;
+  width: calc(100.00% - 178px);
+}
+
+.splash .sign-in-with-facebook-rJVbBe {
+  background-color: transparent;
+  color: #2553b4;
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 500;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.27px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: 184px;
+}
+
+.splash .group-1432-6EzCkC {
+  background-color: transparent;
+  bottom: 0px;
+  height: 38px;
+  left: 13px;
+  overflow: hidden;
+  position: absolute;
+  width: 18px;
+}
+
+.splash .group-1463-UZ5Eci {
+  background-color: transparent;
+  height: 102.63%;
+  left: -27.20%;
+  position: relative;
+  top: -2.63%;
+  width: 127.20%;
+}
+
+.splash .path-1423-ENJKlc {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+
+.splash .google-sign-in-elVXyb {
+  background-color: transparent;
+  height: 50px;
+  left: 0px;
+  position: absolute;
+  top: calc(39.87% - 20px);
+  width: 100%;
+}
+
+.splash .group-1440-A601af {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.splash .group-1466-S6xe7y {
+  background-color: transparent;
+  height: 125.00%;
+  left: -2.02%;
+  position: relative;
+  top: -12.50%;
+  width: 104.03%;
+}
+
+.splash .path-1430-RGUTYq {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+
+.splash .group-1442-A601af {
+  background-color: transparent;
+  bottom: calc(48.28% - 10px);
+  height: 21px;
+  left: calc(50.00% - 80px);
+  opacity: 0.54;
+  position: absolute;
+  width: 160px;
+}
+
+.splash .sign-in-with-google-hzxHEy {
+  background-color: transparent;
+  height: calc(100.00% + 2px);
+  left: 0px;
+  letter-spacing: 0.27px;
+  line-height: 18px;
+  position: absolute;
+  text-align: left;
+  top: 2px;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.splash .group-1513-A601af {
+  background-color: transparent;
+  height: 58.35%;
+  left: 2.50%;
+  position: absolute;
+  top: 23.47%;
+  width: 7.68%;
+}
+
+.splash .group-1445-TfHKUp {
+  background-color: transparent;
+  height: 10px;
+  left: 2px;
+  overflow: hidden;
+  position: absolute;
+  top: 0px;
+  width: 22px;
+}
+
+.splash .group-1444-uhXR79 {
+  background-color: transparent;
+  height: 25px;
+  left: -2px;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 28px;
+}
+
+.splash .group-1447-TfHKUp {
+  background-color: transparent;
+  height: 12px;
+  left: 14px;
+  overflow: hidden;
+  position: absolute;
+  top: 13px;
+  width: 14px;
+}
+
+.splash .group-1446-CXc2sB {
+  background-color: transparent;
+  height: 25px;
+  left: -14px;
+  object-fit: cover;
+  position: absolute;
+  top: -10px;
+  width: 28px;
+}
+
+.splash .group-1449-TfHKUp {
+  background-color: transparent;
+  height: 11px;
+  left: 0px;
+  overflow: hidden;
+  position: absolute;
+  top: 9px;
+  width: 6px;
+}
+
+.splash .group-1448-izYrYU {
+  background-color: transparent;
+  height: 25px;
+  left: -0px;
+  object-fit: cover;
+  position: absolute;
+  top: -7px;
+  width: 28px;
+}
+
+.splash .group-1451-TfHKUp {
+  background-color: transparent;
+  height: 10px;
+  left: 2px;
+  overflow: hidden;
+  position: absolute;
+  top: 19px;
+  width: 22px;
+}
+
+.splash .group-1450-64kY4z {
+  background-color: transparent;
+  height: 25px;
+  left: -2px;
+  object-fit: cover;
+  position: absolute;
+  top: -15px;
+  width: 28px;
+}
+
+.splash .already-have-an-account-log-in-here-elVXyb {
+  background-color: transparent;
+  bottom: -4px;
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xs);
+  font-weight: 500;
+  height: 23px;
+  left: 19px;
+  letter-spacing: 0.00px;
+  line-height: 18px;
+  position: absolute;
+  text-align: center;
+  white-space: nowrap;
+  width: calc(100.00% - 54px);
+}
+
+.splash .span0-rbqngr {
+}
+
+.splash .span1-rbqngr {
+}
+
+.splash .email-signin-elVXyb {
+  background-color: transparent;
+  bottom: 28px;
+  height: 50px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.splash .group-1468-8Kt4KX {
+  background-color: transparent;
+  height: 50px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: calc(50.00% - 25px);
+  width: 100%;
+}
+
+.splash .sign-up-using-email-8Kt4KX {
+  background-color: transparent;
+  bottom: calc(42.59% - 10px);
+  color: var(--vin-rouge);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xs);
+  font-style: normal;
+  font-weight: 500;
+  height: 23px;
+  letter-spacing: 0.27px;
+  line-height: 18px;
+  position: absolute;
+  right: calc(49.23% - 81px);
+  text-align: left;
+  white-space: nowrap;
+  width: 165px;
+}

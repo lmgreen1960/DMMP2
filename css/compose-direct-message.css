@@ -1,0 +1,283 @@
+/* screen - compose-direct-message */
+
+.compose-direct-message {
+  background-color: transparent;
+  cursor: pointer;
+  height: 770px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 830px;
+}
+
+#overlay-compose-direct-message {
+  background-color: transparent;
+}
+
+.overlay .compose-direct-message {
+  background-color: #00000000;
+}
+
+#overlay-compose-direct-message .compose-direct-message {
+  left: 67px;
+  top: 143.0px;
+}
+
+#overlay-compose-direct-message .container-center-horizontal {
+  justify-content: normal;
+}
+
+.compose-direct-message .popup-background-gxoF97 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 770px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 830px;
+}
+
+.compose-direct-message .popup-background-RVfKlN {
+  background-color: var(--white);
+  border-radius: 25px;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.compose-direct-message .start-post-gxoF97 {
+  background-color: transparent;
+  height: 100px;
+  left: 67px;
+  position: absolute;
+  top: 476px;
+  width: 470px;
+}
+
+.compose-direct-message .michelle-post-id-r4LFRp {
+  background-color: transparent;
+  height: 100px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.compose-direct-message .michelle-silva-golding-g8RBqr {
+  background-color: transparent;
+  height: 31px;
+  left: 124px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% - 176px);
+}
+
+.compose-direct-message .mask-group-1268-g8RBqr {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 370px);
+}
+
+.compose-direct-message .teacher-7th-8th-grad-g8RBqr {
+  background-color: transparent;
+  height: 65px;
+  left: 124px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: 29px;
+  width: calc(100.00% - 122px);
+}
+
+.compose-direct-message .hi-paula-we-are-thin-gxoF97 {
+  background-color: transparent;
+  color: var(--black);
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-m);
+  font-style: normal;
+  font-weight: 500;
+  height: 184px;
+  left: 128px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 271px;
+  width: 583px;
+}
+
+.compose-direct-message .post-it-button-gxoF97 {
+  background-color: transparent;
+  cursor: pointer;
+  height: 62px;
+  left: 345px;
+  position: absolute;
+  top: 665px;
+  width: 142px;
+}
+
+.compose-direct-message .rectangle-712-yTTdDK {
+  background-color: var(--white);
+  border-radius: 15px;
+  box-shadow: 0px 12px 24px #00000086;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.compose-direct-message .post-it-yTTdDK {
+  background-color: transparent;
+  bottom: calc(40.91% - 16px);
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  height: 40px;
+  line-height: 36px;
+  position: absolute;
+  right: calc(47.83% - 46px);
+  text-align: left;
+  white-space: nowrap;
+  width: 96px;
+}
+
+.compose-direct-message .michelle-post-id-gxoF97 {
+  background-color: transparent;
+  height: 100px;
+  left: 67px;
+  position: absolute;
+  top: 143px;
+  width: 472px;
+}
+
+.compose-direct-message .mask-group-1268-xcs2Uc {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 370px);
+}
+
+.compose-direct-message .teacher-8th-grade-ma-xcs2Uc {
+  background-color: transparent;
+  height: 65px;
+  left: 124px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: 29px;
+  width: calc(100.00% - 122px);
+}
+
+.compose-direct-message .paula-de-gallo-xcs2Uc {
+  background-color: transparent;
+  height: 31px;
+  left: 124px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% - 178px);
+}
+
+.compose-direct-message .popup-header-gxoF97 {
+  background-color: transparent;
+  height: 92px;
+  left: 46px;
+  position: absolute;
+  top: 24px;
+  width: 769px;
+}
+
+.compose-direct-message .cancel-button-T7LJJf {
+  background-color: transparent;
+  height: 68px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 68px;
+}
+
+.compose-direct-message .path-1484-3965P9 {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.compose-direct-message .group-1230-3965P9 {
+  background-color: transparent;
+  height: calc(100.00% - 22px);
+  left: 13px;
+  opacity: 0.67;
+  position: absolute;
+  top: 10px;
+  transform: rotate(45.00deg);
+  width: calc(100.00% - 27px);
+}
+
+.compose-direct-message .path-1146-RnLQU7 {
+  background-color: transparent;
+  height: 87.10%;
+  left: -1.12%;
+  object-fit: cover;
+  position: absolute;
+  top: 6.45%;
+  transform: rotate(-45.00deg);
+  width: 96.69%;
+}
+
+.compose-direct-message .path-1147-RnLQU7 {
+  background-color: transparent;
+  height: 78.20%;
+  left: 6.59%;
+  object-fit: cover;
+  position: absolute;
+  top: 11.50%;
+  transform: rotate(-45.00deg);
+  width: 86.81%;
+}
+
+.compose-direct-message .underline-T7LJJf {
+  background-color: transparent;
+  bottom: -2px;
+  height: 3px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 16px);
+}
+
+.compose-direct-message .direct-message-T7LJJf {
+  background-color: transparent;
+  height: 49px;
+  left: calc(46.43% - 131px);
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: center;
+  top: calc(40.56% - 20px);
+  white-space: nowrap;
+  width: 282px;
+}

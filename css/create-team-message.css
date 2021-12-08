@@ -1,0 +1,909 @@
+/* screen - create-team-message */
+
+.create-team-message {
+  background-color: transparent;
+  cursor: pointer;
+  height: 770px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 830px;
+}
+
+#overlay-create-team-message {
+  background-color: transparent;
+}
+
+.overlay .create-team-message {
+  background-color: #00000000;
+}
+
+#overlay-create-team-message .create-team-message {
+  left: 1522px;
+  top: 3700.9951171875px;
+}
+
+#overlay-create-team-message .container-center-horizontal {
+  justify-content: normal;
+}
+
+.create-team-message .popup-background-SPAxux {
+  background-color: transparent;
+  cursor: pointer;
+  height: 770px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 830px;
+}
+
+.create-team-message .popup-background-j7Y64t {
+  background-color: var(--white);
+  border-radius: 25px;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.create-team-message .new-post-icons-SPAxux {
+  background-color: transparent;
+  height: 104px;
+  left: 128px;
+  position: absolute;
+  top: 563px;
+  width: 590px;
+}
+
+.create-team-message .camera-button-smdtnH {
+  background-color: transparent;
+  height: calc(100.00% - 8px);
+  left: 0px;
+  position: absolute;
+  top: 5px;
+  width: 83px;
+}
+
+.create-team-message .camera-icon-OOxxwk {
+  background-color: transparent;
+  height: calc(100.00% - 31px);
+  left: 2px;
+  object-fit: cover;
+  position: absolute;
+  top: 1px;
+  width: calc(100.00% - 5px);
+}
+
+.create-team-message .camera-OOxxwk {
+  background-color: transparent;
+  bottom: -4px;
+  height: 30px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.create-team-message .earth-icon-smdtnH {
+  background-color: transparent;
+  height: calc(100.00% - 12px);
+  left: calc(31.08% - 25px);
+  position: absolute;
+  top: 9px;
+  width: 80px;
+}
+
+.create-team-message .publish-Lqe4Bf {
+  background-color: transparent;
+  bottom: -4px;
+  height: 30px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: calc(100.00% + 2px);
+}
+
+.create-team-message .earth-icon-Lqe4Bf {
+  background-color: transparent;
+  height: 59px;
+  left: 2px;
+  position: absolute;
+  top: 0px;
+  width: 75px;
+}
+
+.create-team-message .path-1407-xkWM66 {
+  background-color: transparent;
+  height: 100.00%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100.00%;
+}
+
+.create-team-message .path-1408-xkWM66 {
+  background-color: transparent;
+  height: 52.66%;
+  left: 2.14%;
+  object-fit: cover;
+  position: absolute;
+  top: 3.33%;
+  width: 46.91%;
+}
+
+.create-team-message .path-1409-xkWM66 {
+  background-color: transparent;
+  height: 42.55%;
+  left: 5.48%;
+  object-fit: cover;
+  position: absolute;
+  top: 53.37%;
+  width: 36.78%;
+}
+
+.create-team-message .path-1410-xkWM66 {
+  background-color: transparent;
+  height: 66.68%;
+  left: 51.46%;
+  object-fit: cover;
+  position: absolute;
+  top: 22.82%;
+  width: 41.10%;
+}
+
+.create-team-message .camera-roll-button-smdtnH {
+  background-color: transparent;
+  height: calc(100.00% - 5px);
+  position: absolute;
+  right: calc(32.44% - 49px);
+  top: 1px;
+  width: 152px;
+}
+
+.create-team-message .camera-roll-icon-nvjqfI {
+  background-color: transparent;
+  height: 70.41%;
+  left: 26.72%;
+  position: absolute;
+  top: 0px;
+  width: 46.05%;
+}
+
+.create-team-message .group-1388-MCfOVQ {
+  background-color: transparent;
+  height: 69px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 70px;
+}
+
+.create-team-message .group-1387-mWN7xA {
+  background-color: transparent;
+  height: 69px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 70px;
+}
+
+.create-team-message .path-1380-EmzSk6 {
+  background-color: transparent;
+  height: 69px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 70px;
+}
+
+.create-team-message .group-1390-MCfOVQ {
+  background-color: transparent;
+  height: 41px;
+  left: 8px;
+  position: absolute;
+  top: 14px;
+  width: 25px;
+}
+
+.create-team-message .group-1389-QWgfF1 {
+  background-color: transparent;
+  height: 41px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 25px;
+}
+
+.create-team-message .path-1381-DR39x3 {
+  background-color: transparent;
+  height: 41px;
+  left: -0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.create-team-message .group-1392-MCfOVQ {
+  background-color: transparent;
+  height: 39px;
+  left: 37px;
+  position: absolute;
+  top: 14px;
+  width: 25px;
+}
+
+.create-team-message .group-1391-6evEfO {
+  background-color: transparent;
+  height: 39px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 25px;
+}
+
+.create-team-message .path-1382-RxKqUu {
+  background-color: transparent;
+  height: 39px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 25px;
+}
+
+.create-team-message .group-1394-MCfOVQ {
+  background-color: transparent;
+  height: 2px;
+  left: 9px;
+  position: absolute;
+  top: 8px;
+  width: 6px;
+}
+
+.create-team-message .group-1393-EfjCIe {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 6px;
+}
+
+.create-team-message .path-1383-ZLGtHU {
+  background-color: transparent;
+  height: 2px;
+  left: -0px;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 6px;
+}
+
+.create-team-message .group-1396-MCfOVQ {
+  background-color: transparent;
+  height: 2px;
+  left: 18px;
+  position: absolute;
+  top: 8px;
+  width: 4px;
+}
+
+.create-team-message .group-1395-hytVXQ {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 4px;
+}
+
+.create-team-message .path-1384-JVJ5Xx {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 4px;
+}
+
+.create-team-message .group-1398-MCfOVQ {
+  background-color: transparent;
+  height: 2px;
+  left: 26px;
+  position: absolute;
+  top: 7px;
+  width: 5px;
+}
+
+.create-team-message .group-1397-EDjsML {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 5px;
+}
+
+.create-team-message .path-1385-ueQ92N {
+  background-color: transparent;
+  height: 2px;
+  left: -0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 5px;
+}
+
+.create-team-message .group-1400-MCfOVQ {
+  background-color: transparent;
+  height: 2px;
+  left: 35px;
+  position: absolute;
+  top: 7px;
+  width: 6px;
+}
+
+.create-team-message .group-1399-xYmPhe {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 6px;
+}
+
+.create-team-message .path-1386-ALDM7l {
+  background-color: transparent;
+  height: 2px;
+  left: -0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 6px;
+}
+
+.create-team-message .group-1402-MCfOVQ {
+  background-color: transparent;
+  height: 2px;
+  left: 42px;
+  position: absolute;
+  top: 7px;
+  width: 3px;
+}
+
+.create-team-message .group-1401-aSlNfd {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 3px;
+}
+
+.create-team-message .path-1387-n3xsVP {
+  background-color: transparent;
+  height: 2px;
+  left: -0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 3px;
+}
+
+.create-team-message .group-1404-MCfOVQ {
+  background-color: transparent;
+  height: 2px;
+  left: 51px;
+  position: absolute;
+  top: 8px;
+  width: 4px;
+}
+
+.create-team-message .group-1403-BBSkC2 {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 4px;
+}
+
+.create-team-message .path-1388-8J1YF5 {
+  background-color: transparent;
+  height: 2px;
+  left: -0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 4px;
+}
+
+.create-team-message .group-1406-MCfOVQ {
+  background-color: transparent;
+  height: 2px;
+  left: 57px;
+  position: absolute;
+  top: 8px;
+  width: 2px;
+}
+
+.create-team-message .group-1405-Rq7OKY {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 2px;
+}
+
+.create-team-message .path-1389-Gv1TKo {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 2px;
+}
+
+.create-team-message .group-1408-MCfOVQ {
+  background-color: transparent;
+  height: 2px;
+  left: 10px;
+  position: absolute;
+  top: 58px;
+  width: 3px;
+}
+
+.create-team-message .group-1407-aO3uM1 {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 3px;
+}
+
+.create-team-message .path-1390-f6Jkb8 {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 3px;
+}
+
+.create-team-message .group-1410-MCfOVQ {
+  background-color: transparent;
+  height: 2px;
+  left: 17px;
+  position: absolute;
+  top: 58px;
+  width: 6px;
+}
+
+.create-team-message .group-1409-yi9w5p {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 6px;
+}
+
+.create-team-message .path-1391-E5XRaD {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 6px;
+}
+
+.create-team-message .group-1412-MCfOVQ {
+  background-color: transparent;
+  height: 2px;
+  left: 26px;
+  position: absolute;
+  top: 58px;
+  width: 5px;
+}
+
+.create-team-message .group-1411-2i2TU9 {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 5px;
+}
+
+.create-team-message .path-1392-cyBx0q {
+  background-color: transparent;
+  height: 2px;
+  left: -0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 5px;
+}
+
+.create-team-message .group-1414-MCfOVQ {
+  background-color: transparent;
+  height: 2px;
+  left: 38px;
+  position: absolute;
+  top: 57px;
+  width: 5px;
+}
+
+.create-team-message .group-1413-wYh3gg {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 5px;
+}
+
+.create-team-message .path-1393-pfEFcf {
+  background-color: transparent;
+  height: 2px;
+  left: -0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 5px;
+}
+
+.create-team-message .group-1416-MCfOVQ {
+  background-color: transparent;
+  height: 2px;
+  left: 49px;
+  position: absolute;
+  top: 57px;
+  width: 4px;
+}
+
+.create-team-message .group-1415-2oOe3e {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 4px;
+}
+
+.create-team-message .path-1394-fnqmAe {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 4px;
+}
+
+.create-team-message .group-1418-MCfOVQ {
+  background-color: transparent;
+  height: 2px;
+  left: 57px;
+  position: absolute;
+  top: 57px;
+  width: 5px;
+}
+
+.create-team-message .group-1417-lKx127 {
+  background-color: transparent;
+  height: 2px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 5px;
+}
+
+.create-team-message .path-1395-sEVOYo {
+  background-color: transparent;
+  height: 2px;
+  left: -0px;
+  object-fit: cover;
+  position: absolute;
+  top: -0px;
+  width: 5px;
+}
+
+.create-team-message .camera-roll-nvjqfI {
+  background-color: transparent;
+  bottom: -2px;
+  height: 30px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  overflow: hidden;
+  position: absolute;
+  text-align: center;
+  width: calc(100.00% + 2px);
+}
+
+.create-team-message .gallery-button-smdtnH {
+  background-color: transparent;
+  height: 100%;
+  position: absolute;
+  right: 1px;
+  top: 0px;
+  width: 109px;
+}
+
+.create-team-message .noun_-picture_343573-LaxoUR {
+  background-color: transparent;
+  height: 65.02%;
+  left: 15.52%;
+  position: absolute;
+  top: 1.16%;
+  transform: rotate(-2.00deg);
+  width: 64.22%;
+}
+
+.create-team-message .path-1378-IIfVyo {
+  background-color: transparent;
+  height: 71px;
+  left: -2px;
+  object-fit: cover;
+  position: absolute;
+  top: -2px;
+  transform: rotate(2.00deg);
+  width: 73px;
+}
+
+.create-team-message .path-1379-IIfVyo {
+  background-color: transparent;
+  height: 12px;
+  left: 42px;
+  object-fit: cover;
+  position: absolute;
+  top: 17px;
+  transform: rotate(2.00deg);
+  width: 12px;
+}
+
+.create-team-message .gallery-LaxoUR {
+  background-color: transparent;
+  bottom: -2px;
+  height: 35px;
+  left: 0px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: center;
+  width: calc(100.00% + 2px);
+}
+
+.create-team-message .new-post-popup-SPAxux {
+  background-color: transparent;
+  height: 100px;
+  left: 69px;
+  position: absolute;
+  top: 424px;
+  width: 470px;
+}
+
+.create-team-message .michelle-post-id-3aiRoS {
+  background-color: transparent;
+  height: 100px;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.create-team-message .mask-group-1268-rzkUNX {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: calc(100.00% - 370px);
+}
+
+.create-team-message .teacher-7th-8th-grad-rzkUNX {
+  background-color: transparent;
+  height: 65px;
+  left: 124px;
+  letter-spacing: 0.00px;
+  line-height: 20px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: 29px;
+  width: calc(100.00% - 122px);
+}
+
+.create-team-message .michelle-silva-golding-rzkUNX {
+  background-color: transparent;
+  height: 31px;
+  left: 124px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  overflow: hidden;
+  position: absolute;
+  text-align: left;
+  top: 0px;
+  width: calc(100.00% - 178px);
+}
+
+.create-team-message .start-your-direct-message-here-SPAxux {
+  -webkit-text-stroke: 0.5px var(--white);
+  background-color: transparent;
+  border: 0;
+  color: var(--black);
+  cursor: pointer;
+  font-family: var(--font-family-roboto);
+  font-size: var(--font-size-xl);
+  font-style: normal;
+  font-weight: 500;
+  height: 44px;
+  left: 69px;
+  letter-spacing: 0.00px;
+  line-height: 36px;
+  opacity: 0.5;
+  padding: 0;
+  position: absolute;
+  resize: none;
+  text-align: left;
+  top: 257px;
+  white-space: nowrap;
+  width: 509px;
+}
+
+.create-team-message .start-your-direct-message-here-SPAxux::placeholder {
+  color: #00000099;
+}
+
+.create-team-message .team-SPAxux {
+  background-color: transparent;
+  height: 63px;
+  left: 59px;
+  position: absolute;
+  top: 142px;
+  width: 373px;
+}
+
+.create-team-message .district-math-team-YQFezp {
+  background-color: transparent;
+  height: 31px;
+  left: 79px;
+  letter-spacing: 0.00px;
+  line-height: 24px;
+  position: absolute;
+  text-align: left;
+  top: 17px;
+  width: calc(100.00% - 77px);
+}
+
+.create-team-message .ellipse-373-YQFezp {
+  background-color: var(--goldenrod);
+  border-radius: 25px;
+  height: 50px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 50px;
+}
+
+.create-team-message .ellipse-374-YQFezp {
+  background-color: var(--grape);
+  border-radius: 25px;
+  height: calc(100.00% - 13px);
+  left: 8px;
+  position: absolute;
+  top: 6px;
+  width: calc(100.00% - 323px);
+}
+
+.create-team-message .mask-group-1255-YQFezp {
+  background-color: transparent;
+  bottom: 0px;
+  height: 50px;
+  object-fit: cover;
+  position: absolute;
+  right: 306px;
+  width: 50px;
+}
+
+.create-team-message .popup-header-SPAxux {
+  background-color: transparent;
+  height: 92px;
+  left: 46px;
+  position: absolute;
+  top: 24px;
+  width: 769px;
+}
+
+.create-team-message .cancel-button-16U573 {
+  background-color: transparent;
+  height: 68px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 68px;
+}
+
+.create-team-message .path-1484-akqd6Q {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.create-team-message .group-1230-akqd6Q {
+  background-color: transparent;
+  height: calc(100.00% - 22px);
+  left: 13px;
+  opacity: 0.67;
+  position: absolute;
+  top: 10px;
+  transform: rotate(45.00deg);
+  width: calc(100.00% - 27px);
+}
+
+.create-team-message .path-1146-tGEqEz {
+  background-color: transparent;
+  height: 87.10%;
+  left: -1.12%;
+  object-fit: cover;
+  position: absolute;
+  top: 6.45%;
+  transform: rotate(-45.00deg);
+  width: 96.69%;
+}
+
+.create-team-message .path-1147-tGEqEz {
+  background-color: transparent;
+  height: 78.20%;
+  left: 6.59%;
+  object-fit: cover;
+  position: absolute;
+  top: 11.50%;
+  transform: rotate(-45.00deg);
+  width: 86.81%;
+}
+
+.create-team-message .underline-16U573 {
+  background-color: transparent;
+  bottom: -2px;
+  height: 3px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 16px);
+}
+
+.create-team-message .team-message-16U573 {
+  background-color: transparent;
+  height: 49px;
+  left: calc(47.08% - 130px);
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: center;
+  top: calc(40.56% - 20px);
+  white-space: nowrap;
+  width: 276px;
+}

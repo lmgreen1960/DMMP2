@@ -1,0 +1,296 @@
+/* screen - print-settings */
+
+.print-settings {
+  background-color: transparent;
+  height: 771px;
+  overflow: hidden;
+  overflow-x: hidden;
+  position: relative;
+  width: 830px;
+}
+
+.print-settings .popup-background-x7m65y {
+  background-color: transparent;
+  cursor: pointer;
+  height: 770px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 830px;
+}
+
+.print-settings .popup-background-LXVoFA {
+  background-color: var(--white);
+  border-radius: 25px;
+  height: 100%;
+  left: 0px;
+  position: relative;
+  top: 0px;
+  width: 100%;
+}
+
+.print-settings .new-post-popup-x7m65y {
+  background-color: transparent;
+  height: 215px;
+  left: 100px;
+  position: absolute;
+  top: 199px;
+  width: 642px;
+}
+
+.print-settings .destination-aNCpaD {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.print-settings .rectangle-746-5gFxVt {
+  background-color: var(--concrete);
+  height: 59px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 403px;
+}
+
+.print-settings .brother-hl-3170-cdw-5gFxVt {
+  background-color: transparent;
+  bottom: calc(20.45% - 8px);
+  height: 37px;
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  right: calc(27.01% - 79px);
+  text-align: center;
+  white-space: nowrap;
+  width: 294px;
+}
+
+.print-settings .destination-5gFxVt {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  height: 43px;
+  left: 0px;
+  line-height: 32px;
+  opacity: 0.7;
+  position: absolute;
+  text-align: left;
+  top: 9px;
+  width: calc(100.00% - 467px);
+}
+
+.print-settings .pages-aNCpaD {
+  background-color: transparent;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  top: calc(48.08% - 28px);
+  width: 100%;
+}
+
+.print-settings .rectangle-747-K730nS {
+  background-color: var(--concrete);
+  height: 59px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 403px;
+}
+
+.print-settings .all-K730nS {
+  background-color: transparent;
+  bottom: calc(34.09% - 13px);
+  height: 37px;
+  left: calc(42.38% - 16px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 38px;
+}
+
+.print-settings .pages-K730nS {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  height: 43px;
+  left: 0px;
+  line-height: 32px;
+  opacity: 0.7;
+  position: absolute;
+  text-align: left;
+  top: 15px;
+  width: calc(100.00% - 539px);
+}
+
+.print-settings .copies-aNCpaD {
+  background-color: transparent;
+  bottom: 0px;
+  height: 59px;
+  left: 0px;
+  position: absolute;
+  width: 100%;
+}
+
+.print-settings .rectangle-748-wvtrZH {
+  background-color: var(--concrete);
+  height: 59px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 403px;
+}
+
+.print-settings .x1-wvtrZH {
+  background-color: transparent;
+  bottom: calc(34.09% - 13px);
+  height: 37px;
+  left: calc(41.09% - 8px);
+  letter-spacing: 0.00px;
+  line-height: 30px;
+  position: absolute;
+  text-align: left;
+  white-space: nowrap;
+  width: 19px;
+}
+
+.print-settings .copies-wvtrZH {
+  background-color: transparent;
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  height: 43px;
+  left: 0px;
+  line-height: 32px;
+  opacity: 0.7;
+  position: absolute;
+  text-align: left;
+  top: 18px;
+  width: calc(100.00% - 520px);
+}
+
+.print-settings .print-button-x7m65y {
+  background-color: transparent;
+  height: 62px;
+  left: 353px;
+  position: absolute;
+  top: 475px;
+  width: 118px;
+}
+
+.print-settings .rectangle-712-BlIqaG {
+  background-color: var(--white);
+  border-radius: 15px;
+  box-shadow: 0px 12px 24px #00000086;
+  height: 100%;
+  left: 0px;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.print-settings .print-BlIqaG {
+  background-color: transparent;
+  bottom: calc(40.91% - 16px);
+  color: var(--black);
+  font-style: normal;
+  font-weight: 700;
+  height: 40px;
+  line-height: 36px;
+  position: absolute;
+  right: calc(47.83% - 34px);
+  text-align: left;
+  white-space: nowrap;
+  width: 72px;
+}
+
+.print-settings .popup-header-x7m65y {
+  background-color: transparent;
+  height: 92px;
+  left: 46px;
+  position: absolute;
+  top: 24px;
+  width: 769px;
+}
+
+.print-settings .cancel-button-dvMnYz {
+  background-color: transparent;
+  height: 68px;
+  position: absolute;
+  right: 0px;
+  top: 0px;
+  width: 68px;
+}
+
+.print-settings .path-1484-f5K94T {
+  background-color: transparent;
+  height: 100%;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  top: 0px;
+  width: 100%;
+}
+
+.print-settings .group-1230-f5K94T {
+  background-color: transparent;
+  height: calc(100.00% - 22px);
+  left: 13px;
+  opacity: 0.67;
+  position: absolute;
+  top: 10px;
+  transform: rotate(45.00deg);
+  width: calc(100.00% - 27px);
+}
+
+.print-settings .path-1146-Q91oYc {
+  background-color: transparent;
+  height: 87.10%;
+  left: -1.12%;
+  object-fit: cover;
+  position: absolute;
+  top: 6.45%;
+  transform: rotate(-45.00deg);
+  width: 96.69%;
+}
+
+.print-settings .path-1147-Q91oYc {
+  background-color: transparent;
+  height: 78.20%;
+  left: 6.59%;
+  object-fit: cover;
+  position: absolute;
+  top: 11.50%;
+  transform: rotate(-45.00deg);
+  width: 86.81%;
+}
+
+.print-settings .underline-dvMnYz {
+  background-color: transparent;
+  bottom: -2px;
+  height: 3px;
+  left: 0px;
+  object-fit: cover;
+  position: absolute;
+  width: calc(100.00% - 16px);
+}
+
+.print-settings .print-settings-dvMnYz {
+  background-color: transparent;
+  height: 49px;
+  left: calc(47.24% - 117px);
+  letter-spacing: 0.00px;
+  line-height: 40px;
+  position: absolute;
+  text-align: center;
+  top: calc(40.56% - 20px);
+  white-space: nowrap;
+  width: 248px;
+}
